@@ -738,9 +738,9 @@
         ]
       }
     ],
-    "x": 2529.659991242758,
-    "y": -797.8213855480736,
-    "zoom": 0.6147058054777602
+    "x": -746.9385359716739,
+    "y": 30.027237620905314,
+    "zoom": 0.5261211941626034
   },
   "customType": "BABYLON.NodeMaterial",
   "outputNodes": [
@@ -1252,7 +1252,7 @@
       "useRadianceOverAlpha": true,
       "useSpecularOverAlpha": true,
       "enableSpecularAntiAliasing": true,
-      "realTimeFiltering": true,
+      "realTimeFiltering": false,
       "realTimeFilteringQuality": 16,
       "useEnergyConservation": true,
       "useRadianceOcclusion": true,
