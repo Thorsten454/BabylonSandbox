@@ -155,23 +155,13 @@
       },
       {
         "blockId": 2406,
-        "x": -2415,
-        "y": 2805
+        "x": -2580,
+        "y": 2820
       },
       {
         "blockId": 2407,
-        "x": -2760,
+        "x": -2850,
         "y": 2835
-      },
-      {
-        "blockId": 2408,
-        "x": -3060,
-        "y": 2790
-      },
-      {
-        "blockId": 2409,
-        "x": -3330,
-        "y": 2820
       },
       {
         "blockId": 2410,
@@ -572,6 +562,16 @@
         "blockId": 2499,
         "x": 2910,
         "y": 2385
+      },
+      {
+        "blockId": 2894,
+        "x": -3225,
+        "y": 2820
+      },
+      {
+        "blockId": 3516,
+        "x": -2340,
+        "y": 2835
       }
     ],
     "frames": [
@@ -763,9 +763,9 @@
         ]
       }
     ],
-    "x": 2213.2332186394547,
-    "y": -296.82785449470714,
-    "zoom": 0.3871562425277111
+    "x": 3171.315213505819,
+    "y": -1709.179931471163,
+    "zoom": 0.8299037892040476
   },
   "customType": "BABYLON.NodeMaterial",
   "outputNodes": [
@@ -1769,8 +1769,8 @@
           "name": "normalMap1",
           "displayName": "normalMap1",
           "inputName": "normalMap1",
-          "targetBlockId": 2406,
-          "targetConnectionName": "xyz",
+          "targetBlockId": 3516,
+          "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
         }
@@ -1897,6 +1897,30 @@
       "convertToLinearSpace": false
     },
     {
+      "customType": "BABYLON.NormalizeBlock",
+      "id": 3516,
+      "name": "Normalize",
+      "comments": "",
+      "visibleInInspector": false,
+      "visibleOnFrame": false,
+      "target": 4,
+      "inputs": [
+        {
+          "name": "input",
+          "inputName": "input",
+          "targetBlockId": 2406,
+          "targetConnectionName": "xyz",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
       "customType": "BABYLON.VectorMergerBlock",
       "id": 2406,
       "name": "VectorMerger",
@@ -1925,8 +1949,8 @@
         {
           "name": "z",
           "inputName": "z",
-          "targetBlockId": 2409,
-          "targetConnectionName": "b",
+          "targetBlockId": 2894,
+          "targetConnectionName": "z",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
         },
@@ -1958,7 +1982,7 @@
         {
           "name": "input",
           "inputName": "input",
-          "targetBlockId": 2408,
+          "targetBlockId": 2894,
           "targetConnectionName": "xy",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -1979,91 +2003,47 @@
       ]
     },
     {
-      "customType": "BABYLON.VectorMergerBlock",
-      "id": 2408,
-      "name": "VectorMerger",
+      "customType": "BABYLON.VectorSplitterBlock",
+      "id": 2894,
+      "name": "VectorSplitter",
       "comments": "",
       "visibleInInspector": false,
       "visibleOnFrame": false,
       "target": 4,
       "inputs": [
         {
-          "name": "xyz "
+          "name": "xyzw"
+        },
+        {
+          "name": "xyz ",
+          "inputName": "xyz ",
+          "targetBlockId": 2410,
+          "targetConnectionName": "rgb",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
         },
         {
           "name": "xy "
+        }
+      ],
+      "outputs": [
+        {
+          "name": "xyz"
         },
         {
-          "name": "x",
-          "inputName": "x",
-          "targetBlockId": 2409,
-          "targetConnectionName": "r",
-          "isExposedOnFrame": true,
-          "exposedPortPosition": -1
+          "name": "xy"
         },
         {
-          "name": "y",
-          "inputName": "y",
-          "targetBlockId": 2409,
-          "targetConnectionName": "g",
-          "isExposedOnFrame": true,
-          "exposedPortPosition": -1
+          "name": "x"
+        },
+        {
+          "name": "y"
         },
         {
           "name": "z"
         },
         {
           "name": "w"
-        }
-      ],
-      "outputs": [
-        {
-          "name": "xyzw"
-        },
-        {
-          "name": "xyz"
-        },
-        {
-          "name": "xy"
-        }
-      ]
-    },
-    {
-      "customType": "BABYLON.ColorSplitterBlock",
-      "id": 2409,
-      "name": "ColorSplitter",
-      "comments": "",
-      "visibleInInspector": false,
-      "visibleOnFrame": false,
-      "target": 4,
-      "inputs": [
-        {
-          "name": "rgba"
-        },
-        {
-          "name": "rgb ",
-          "inputName": "rgb ",
-          "targetBlockId": 2410,
-          "targetConnectionName": "rgb",
-          "isExposedOnFrame": true,
-          "exposedPortPosition": -1
-        }
-      ],
-      "outputs": [
-        {
-          "name": "rgb"
-        },
-        {
-          "name": "r"
-        },
-        {
-          "name": "g"
-        },
-        {
-          "name": "b"
-        },
-        {
-          "name": "a"
         }
       ]
     },
