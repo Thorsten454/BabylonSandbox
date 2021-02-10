@@ -763,9 +763,9 @@
         ]
       }
     ],
-    "x": 59.17381157415757,
-    "y": 1240.4264751843284,
-    "zoom": 0.6107004170382208
+    "x": 226.17208399642422,
+    "y": 819.857169331594,
+    "zoom": 0.360612489256899
   },
   "customType": "BABYLON.NodeMaterial",
   "outputNodes": [
@@ -4522,7 +4522,7 @@
         {
           "name": "world",
           "inputName": "world",
-          "targetBlockId": 4793,
+          "targetBlockId": 4790,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
