@@ -748,9 +748,9 @@
         ]
       }
     ],
-    "x": 985.4168673648694,
-    "y": 240.06204413499214,
-    "zoom": 0.29160577529309684
+    "x": 5157.490175261761,
+    "y": -2496.38418177578,
+    "zoom": 1.2181096910341207
   },
   "customType": "BABYLON.NodeMaterial",
   "outputNodes": [
@@ -2087,7 +2087,7 @@
       "mode": 0,
       "animationType": 0,
       "min": 0,
-      "max": 0,
+      "max": 1,
       "isBoolean": false,
       "matrixMode": 0,
       "isConstant": false,
