@@ -796,9 +796,9 @@
         ]
       }
     ],
-    "x": 1802.6100533101248,
-    "y": 340.05226580802054,
-    "zoom": 0.32732923904341127
+    "x": 2282.717060116948,
+    "y": 351.6741805986003,
+    "zoom": 0.46485252355717943
   },
   "customType": "BABYLON.NodeMaterial",
   "outputNodes": [
@@ -1866,7 +1866,7 @@
       "id": 5092,
       "name": "BaseMatTiling",
       "comments": "",
-      "visibleInInspector": false,
+      "visibleInInspector": true,
       "visibleOnFrame": false,
       "target": 1,
       "inputs": [],
