@@ -115,8 +115,8 @@
       },
       {
         "blockId": 22,
-        "x": -7485,
-        "y": 210
+        "x": -7455,
+        "y": 165
       },
       {
         "blockId": 23,
@@ -125,273 +125,273 @@
       },
       {
         "blockId": 24,
-        "x": -375,
-        "y": 930
+        "x": -570,
+        "y": 945
       },
       {
         "blockId": 25,
-        "x": -2475,
-        "y": 1320
-      },
-      {
-        "blockId": 26,
-        "x": -6150,
-        "y": 735
-      },
-      {
-        "blockId": 28,
-        "x": -6420,
-        "y": 495
-      },
-      {
-        "blockId": 29,
-        "x": -6420,
-        "y": 615
-      },
-      {
-        "blockId": 30,
-        "x": 345,
-        "y": 2025
-      },
-      {
-        "blockId": 31,
-        "x": 60,
-        "y": 1920
-      },
-      {
-        "blockId": 32,
-        "x": -585,
-        "y": 1890
-      },
-      {
-        "blockId": 33,
-        "x": -915,
-        "y": 1890
-      },
-      {
-        "blockId": 34,
-        "x": -1620,
-        "y": 1650
-      },
-      {
-        "blockId": 35,
-        "x": -2340,
-        "y": 1650
-      },
-      {
-        "blockId": 36,
-        "x": -2670,
-        "y": 1605
-      },
-      {
-        "blockId": 37,
-        "x": -3420,
-        "y": 1305
-      },
-      {
-        "blockId": 39,
-        "x": -4080,
-        "y": 1305
-      },
-      {
-        "blockId": 40,
-        "x": -2805,
-        "y": 2085
-      },
-      {
-        "blockId": 41,
-        "x": -2655,
-        "y": 1785
-      },
-      {
-        "blockId": 42,
-        "x": -3375,
-        "y": 2010
-      },
-      {
-        "blockId": 43,
-        "x": -1440,
-        "y": 2445
-      },
-      {
-        "blockId": 44,
-        "x": -1845,
-        "y": 2445
-      },
-      {
-        "blockId": 45,
-        "x": -2175,
-        "y": 2385
-      },
-      {
-        "blockId": 46,
-        "x": -3420,
-        "y": 1635
-      },
-      {
-        "blockId": 48,
-        "x": -3765,
-        "y": 1635
-      },
-      {
-        "blockId": 49,
-        "x": -3765,
-        "y": 1755
-      },
-      {
-        "blockId": 50,
-        "x": -2175,
-        "y": 2595
-      },
-      {
-        "blockId": 51,
-        "x": -3420,
-        "y": 1890
-      },
-      {
-        "blockId": 52,
-        "x": -270,
-        "y": 2040
-      },
-      {
-        "blockId": 53,
-        "x": 60,
-        "y": 2085
-      },
-      {
-        "blockId": 54,
-        "x": -3195,
-        "y": 510
-      },
-      {
-        "blockId": 55,
-        "x": -3930,
-        "y": -645
-      },
-      {
-        "blockId": 57,
-        "x": -3870,
-        "y": 255
-      },
-      {
-        "blockId": 59,
-        "x": 1680,
-        "y": 1590
-      },
-      {
-        "blockId": 60,
-        "x": 1395,
-        "y": 1485
-      },
-      {
-        "blockId": 61,
-        "x": 1035,
-        "y": 1485
-      },
-      {
-        "blockId": 62,
-        "x": 720,
-        "y": 1485
-      },
-      {
-        "blockId": 63,
-        "x": 225,
-        "y": 1245
-      },
-      {
-        "blockId": 64,
-        "x": -300,
-        "y": 1245
-      },
-      {
-        "blockId": 65,
-        "x": -630,
-        "y": 1200
-      },
-      {
-        "blockId": 66,
-        "x": -1350,
-        "y": 765
-      },
-      {
-        "blockId": 68,
-        "x": -1950,
-        "y": 825
-      },
-      {
-        "blockId": 69,
-        "x": -870,
-        "y": 1545
-      },
-      {
-        "blockId": 70,
-        "x": -615,
-        "y": 1380
-      },
-      {
-        "blockId": 71,
-        "x": -1380,
-        "y": 1500
-      },
-      {
-        "blockId": 72,
-        "x": -15,
-        "y": 1995
-      },
-      {
-        "blockId": 73,
-        "x": -420,
-        "y": 1995
-      },
-      {
-        "blockId": 74,
-        "x": -750,
-        "y": 1935
-      },
-      {
-        "blockId": 75,
-        "x": -1365,
-        "y": 1110
-      },
-      {
-        "blockId": 77,
-        "x": -1620,
-        "y": 1095
-      },
-      {
-        "blockId": 78,
-        "x": -1635,
-        "y": 1245
-      },
-      {
-        "blockId": 79,
-        "x": -750,
-        "y": 2145
-      },
-      {
-        "blockId": 80,
-        "x": -1380,
+        "x": -3345,
         "y": 1365
       },
       {
+        "blockId": 26,
+        "x": -6255,
+        "y": 930
+      },
+      {
+        "blockId": 28,
+        "x": -6570,
+        "y": 555
+      },
+      {
+        "blockId": 29,
+        "x": -6570,
+        "y": 780
+      },
+      {
+        "blockId": 30,
+        "x": -540,
+        "y": 1995
+      },
+      {
+        "blockId": 31,
+        "x": -825,
+        "y": 1890
+      },
+      {
+        "blockId": 32,
+        "x": -1470,
+        "y": 1860
+      },
+      {
+        "blockId": 33,
+        "x": -1800,
+        "y": 1860
+      },
+      {
+        "blockId": 34,
+        "x": -2505,
+        "y": 1620
+      },
+      {
+        "blockId": 35,
+        "x": -3225,
+        "y": 1620
+      },
+      {
+        "blockId": 36,
+        "x": -3555,
+        "y": 1575
+      },
+      {
+        "blockId": 37,
+        "x": -4290,
+        "y": 1350
+      },
+      {
+        "blockId": 39,
+        "x": -4950,
+        "y": 1350
+      },
+      {
+        "blockId": 40,
+        "x": -3690,
+        "y": 2055
+      },
+      {
+        "blockId": 41,
+        "x": -3540,
+        "y": 1755
+      },
+      {
+        "blockId": 42,
+        "x": -4245,
+        "y": 2055
+      },
+      {
+        "blockId": 43,
+        "x": -2325,
+        "y": 2415
+      },
+      {
+        "blockId": 44,
+        "x": -2730,
+        "y": 2415
+      },
+      {
+        "blockId": 45,
+        "x": -3060,
+        "y": 2355
+      },
+      {
+        "blockId": 46,
+        "x": -4290,
+        "y": 1680
+      },
+      {
+        "blockId": 48,
+        "x": -4635,
+        "y": 1680
+      },
+      {
+        "blockId": 49,
+        "x": -4635,
+        "y": 1800
+      },
+      {
+        "blockId": 50,
+        "x": -3060,
+        "y": 2565
+      },
+      {
+        "blockId": 51,
+        "x": -4290,
+        "y": 1935
+      },
+      {
+        "blockId": 52,
+        "x": -1155,
+        "y": 2010
+      },
+      {
+        "blockId": 53,
+        "x": -825,
+        "y": 2055
+      },
+      {
+        "blockId": 54,
+        "x": -4065,
+        "y": 555
+      },
+      {
+        "blockId": 55,
+        "x": -4800,
+        "y": -600
+      },
+      {
+        "blockId": 57,
+        "x": -4740,
+        "y": 300
+      },
+      {
+        "blockId": 59,
+        "x": 1470,
+        "y": 1545
+      },
+      {
+        "blockId": 60,
+        "x": 1185,
+        "y": 1440
+      },
+      {
+        "blockId": 61,
+        "x": 825,
+        "y": 1440
+      },
+      {
+        "blockId": 62,
+        "x": 510,
+        "y": 1440
+      },
+      {
+        "blockId": 63,
+        "x": 15,
+        "y": 1200
+      },
+      {
+        "blockId": 64,
+        "x": -510,
+        "y": 1200
+      },
+      {
+        "blockId": 65,
+        "x": -840,
+        "y": 1155
+      },
+      {
+        "blockId": 66,
+        "x": -1545,
+        "y": 780
+      },
+      {
+        "blockId": 68,
+        "x": -2145,
+        "y": 840
+      },
+      {
+        "blockId": 69,
+        "x": -1080,
+        "y": 1500
+      },
+      {
+        "blockId": 70,
+        "x": -825,
+        "y": 1335
+      },
+      {
+        "blockId": 71,
+        "x": -1575,
+        "y": 1515
+      },
+      {
+        "blockId": 72,
+        "x": -225,
+        "y": 1950
+      },
+      {
+        "blockId": 73,
+        "x": -630,
+        "y": 1950
+      },
+      {
+        "blockId": 74,
+        "x": -960,
+        "y": 1890
+      },
+      {
+        "blockId": 75,
+        "x": -1560,
+        "y": 1125
+      },
+      {
+        "blockId": 77,
+        "x": -1815,
+        "y": 1110
+      },
+      {
+        "blockId": 78,
+        "x": -1830,
+        "y": 1260
+      },
+      {
+        "blockId": 79,
+        "x": -960,
+        "y": 2100
+      },
+      {
+        "blockId": 80,
+        "x": -1575,
+        "y": 1380
+      },
+      {
         "blockId": 81,
-        "x": 1065,
-        "y": 1605
+        "x": 855,
+        "y": 1560
       },
       {
         "blockId": 82,
-        "x": 1395,
-        "y": 1650
+        "x": 1185,
+        "y": 1605
       },
       {
         "blockId": 83,
-        "x": -1065,
-        "y": 330
+        "x": -1425,
+        "y": 390
       },
       {
         "blockId": 84,
-        "x": -1725,
-        "y": 60
+        "x": -1905,
+        "y": -150
       },
       {
         "blockId": 86,
@@ -510,8 +510,8 @@
       },
       {
         "blockId": 111,
-        "x": 450,
-        "y": 135
+        "x": 495,
+        "y": -120
       },
       {
         "blockId": 113,
@@ -525,88 +525,88 @@
       },
       {
         "blockId": 115,
-        "x": -375,
-        "y": 255
+        "x": -495,
+        "y": 210
       },
       {
         "blockId": 116,
-        "x": -2400,
-        "y": 345
+        "x": -3270,
+        "y": 390
       },
       {
         "blockId": 117,
-        "x": -5625,
+        "x": -5850,
         "y": 465
       },
       {
         "blockId": 118,
-        "x": -6165,
-        "y": 450
+        "x": -6255,
+        "y": 525
       },
       {
         "blockId": 120,
-        "x": -5880,
-        "y": 555
+        "x": -5985,
+        "y": 675
       },
       {
         "blockId": 121,
-        "x": -2895,
-        "y": 75
+        "x": -3450,
+        "y": 15
       },
       {
         "blockId": 122,
-        "x": -3210,
-        "y": 120
+        "x": -4050,
+        "y": -90
       },
       {
         "blockId": 123,
-        "x": -3585,
-        "y": 330
+        "x": -4440,
+        "y": 75
       },
       {
         "blockId": 124,
-        "x": -3210,
-        "y": 270
+        "x": -4050,
+        "y": 165
       },
       {
         "blockId": 125,
         "x": -750,
-        "y": 135
+        "y": -105
       },
       {
         "blockId": 126,
-        "x": -1110,
-        "y": 75
+        "x": -1290,
+        "y": -135
       },
       {
         "blockId": 127,
-        "x": -1380,
-        "y": 150
+        "x": -1560,
+        "y": -60
       },
       {
         "blockId": 128,
-        "x": -1095,
-        "y": 225
+        "x": -1290,
+        "y": 105
       },
       {
         "blockId": 129,
-        "x": 1230,
-        "y": 240
+        "x": 1410,
+        "y": -30
       },
       {
         "blockId": 130,
-        "x": 870,
-        "y": 180
+        "x": 915,
+        "y": -75
       },
       {
         "blockId": 131,
-        "x": 465,
-        "y": 405
+        "x": 480,
+        "y": 135
       },
       {
         "blockId": 132,
-        "x": 870,
-        "y": 345
+        "x": 840,
+        "y": 150
       },
       {
         "blockId": 133,
@@ -615,58 +615,58 @@
       },
       {
         "blockId": 134,
-        "x": -375,
-        "y": 495
+        "x": -570,
+        "y": 510
       },
       {
         "blockId": 135,
-        "x": -2475,
-        "y": 645
+        "x": -3345,
+        "y": 690
       },
       {
         "blockId": 136,
-        "x": -5565,
-        "y": 1080
-      },
-      {
-        "blockId": 137,
-        "x": -3180,
+        "x": -5760,
         "y": 840
       },
       {
+        "blockId": 137,
+        "x": -4050,
+        "y": 885
+      },
+      {
         "blockId": 138,
-        "x": -2820,
-        "y": 540
+        "x": -3690,
+        "y": 585
       },
       {
         "blockId": 139,
-        "x": -3195,
-        "y": 675
+        "x": -4065,
+        "y": 720
       },
       {
         "blockId": 140,
-        "x": -3435,
-        "y": 675
+        "x": -4305,
+        "y": 720
       },
       {
         "blockId": 141,
-        "x": -1140,
-        "y": 600
+        "x": -1335,
+        "y": 615
       },
       {
         "blockId": 142,
-        "x": -690,
-        "y": 405
+        "x": -885,
+        "y": 420
       },
       {
         "blockId": 143,
-        "x": -1230,
-        "y": 480
+        "x": -1425,
+        "y": 495
       },
       {
         "blockId": 144,
-        "x": -1470,
-        "y": 480
+        "x": -1665,
+        "y": 495
       },
       {
         "blockId": 145,
@@ -695,28 +695,28 @@
       },
       {
         "blockId": 150,
-        "x": -375,
-        "y": 735
+        "x": -570,
+        "y": 750
       },
       {
         "blockId": 151,
-        "x": -2445,
-        "y": 945
+        "x": -3315,
+        "y": 990
       },
       {
         "blockId": 152,
-        "x": -5565,
-        "y": 1200
+        "x": -5790,
+        "y": 1140
       },
       {
         "blockId": 153,
-        "x": -3180,
-        "y": 975
+        "x": -4050,
+        "y": 1020
       },
       {
         "blockId": 154,
-        "x": -990,
-        "y": 735
+        "x": -1185,
+        "y": 750
       },
       {
         "blockId": 155,
@@ -760,23 +760,23 @@
       },
       {
         "blockId": 163,
-        "x": -405,
-        "y": 1170
+        "x": -600,
+        "y": 1185
       },
       {
         "blockId": 164,
-        "x": -705,
-        "y": 1200
+        "x": -900,
+        "y": 1215
       },
       {
         "blockId": 165,
-        "x": -2475,
-        "y": 1620
+        "x": -3345,
+        "y": 1665
       },
       {
         "blockId": 166,
-        "x": -2475,
-        "y": 1740
+        "x": -3345,
+        "y": 1785
       },
       {
         "blockId": 167,
@@ -845,23 +845,23 @@
       },
       {
         "blockId": 394,
-        "x": -1575,
-        "y": -1110
-      },
-      {
-        "blockId": 395,
-        "x": -1995,
+        "x": -225,
         "y": -1095
       },
       {
+        "blockId": 395,
+        "x": -645,
+        "y": -1080
+      },
+      {
         "blockId": 396,
-        "x": -2055,
-        "y": -945
+        "x": -705,
+        "y": -930
       },
       {
         "blockId": 397,
-        "x": -2055,
-        "y": -870
+        "x": -705,
+        "y": -840
       },
       {
         "blockId": 3045,
@@ -875,29 +875,69 @@
       },
       {
         "blockId": 6235,
-        "x": -2925,
-        "y": -90
+        "x": -4320,
+        "y": 300
       },
       {
         "blockId": 6236,
-        "x": -2865,
-        "y": 255
+        "x": -3705,
+        "y": 120
       },
       {
         "blockId": 6237,
-        "x": -3210,
-        "y": 360
+        "x": -4050,
+        "y": 60
       },
       {
         "blockId": 6634,
-        "x": -2655,
-        "y": -75
+        "x": -4050,
+        "y": 285
+      },
+      {
+        "blockId": 10121,
+        "x": -1575,
+        "y": 165
+      },
+      {
+        "blockId": 10122,
+        "x": -1290,
+        "y": 210
+      },
+      {
+        "blockId": 10123,
+        "x": -960,
+        "y": 45
+      },
+      {
+        "blockId": 10124,
+        "x": -1290,
+        "y": 15
+      },
+      {
+        "blockId": 10925,
+        "x": 870,
+        "y": 75
+      },
+      {
+        "blockId": 10926,
+        "x": 540,
+        "y": 270
+      },
+      {
+        "blockId": 10927,
+        "x": 900,
+        "y": 270
+      },
+      {
+        "blockId": 10928,
+        "x": 1170,
+        "y": 90
       }
     ],
     "frames": [
       {
-        "x": -6435,
-        "y": 315,
+        "x": -6660,
+        "y": 360,
         "width": 1185.01,
         "height": 945,
         "color": [
@@ -908,11 +948,11 @@
         "name": "BottomLayer",
         "isCollapsed": false,
         "blocks": [
-          118,
-          120,
-          117,
-          136,
           152,
+          136,
+          118,
+          117,
+          120,
           26,
           29,
           28
@@ -1086,8 +1126,8 @@
         ]
       },
       {
-        "x": -2910,
-        "y": 1530,
+        "x": -3795,
+        "y": 1500,
         "width": 3569.96,
         "height": 1185,
         "color": [
@@ -1116,8 +1156,8 @@
         ]
       },
       {
-        "x": -945,
-        "y": 1095,
+        "x": -1155,
+        "y": 1050,
         "width": 2938.8,
         "height": 1185,
         "color": [
@@ -1174,11 +1214,30 @@
           86,
           90
         ]
+      },
+      {
+        "x": -915,
+        "y": -1215,
+        "width": 1073.39,
+        "height": 542.17,
+        "color": [
+          0.0196078431372549,
+          0.0196078431372549,
+          0.0196078431372549
+        ],
+        "name": "Fresnel",
+        "isCollapsed": false,
+        "blocks": [
+          395,
+          396,
+          397,
+          394
+        ]
       }
     ],
-    "x": 2119.62719207506,
-    "y": 501.0921383809543,
-    "zoom": 0.503736197912163
+    "x": 845.1558060151192,
+    "y": 391.44007524067797,
+    "zoom": 0.15786542909642098
   },
   "customType": "BABYLON.NodeMaterial",
   "outputNodes": [
@@ -5588,7 +5647,7 @@
           "name": "left",
           "displayName": "Bottom Color",
           "inputName": "left",
-          "targetBlockId": 124,
+          "targetBlockId": 6237,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -5597,7 +5656,7 @@
           "name": "right",
           "displayName": "BottomColor",
           "inputName": "right",
-          "targetBlockId": 6237,
+          "targetBlockId": 124,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": 0
@@ -5621,8 +5680,8 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 124,
-      "name": "Special ColorTint",
+      "id": 6237,
+      "name": "PearlescentColor",
       "comments": "",
       "visibleInInspector": true,
       "visibleOnFrame": false,
@@ -5653,8 +5712,8 @@
     },
     {
       "customType": "BABYLON.InputBlock",
-      "id": 6237,
-      "name": "PearlescentColor",
+      "id": 124,
+      "name": "Special ColorTint",
       "comments": "",
       "visibleInInspector": true,
       "visibleOnFrame": false,
@@ -5879,7 +5938,7 @@
       "convertToGammaSpace": false,
       "convertToLinearSpace": false,
       "valueType": "number",
-      "value": 2
+      "value": 2.5
     },
     {
       "customType": "BABYLON.MultiplyBlock",
@@ -5903,7 +5962,7 @@
           "name": "right",
           "displayName": "right",
           "inputName": "right",
-          "targetBlockId": 128,
+          "targetBlockId": 10123,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -5991,6 +6050,82 @@
       "value": 0
     },
     {
+      "customType": "BABYLON.LerpBlock",
+      "id": 10123,
+      "name": "Lerp",
+      "comments": "",
+      "visibleInInspector": false,
+      "visibleOnFrame": false,
+      "target": 4,
+      "inputs": [
+        {
+          "name": "left",
+          "displayName": "Bottom Color",
+          "inputName": "left",
+          "targetBlockId": 10124,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        },
+        {
+          "name": "right",
+          "displayName": "BottomColor",
+          "inputName": "right",
+          "targetBlockId": 128,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": 0
+        },
+        {
+          "name": "gradient",
+          "displayName": "Inherit Color",
+          "inputName": "gradient",
+          "targetBlockId": 10122,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output",
+          "displayName": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 10124,
+      "name": "PearlescentColor 2",
+      "comments": "",
+      "visibleInInspector": true,
+      "visibleOnFrame": false,
+      "target": 1,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 32,
+      "mode": 0,
+      "animationType": 0,
+      "min": 0,
+      "max": 0,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "SpecialLayer 2",
+      "convertToGammaSpace": false,
+      "convertToLinearSpace": false,
+      "valueType": "BABYLON.Color3",
+      "value": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
       "customType": "BABYLON.InputBlock",
       "id": 128,
       "name": "Special ColorTint 2",
@@ -6024,6 +6159,66 @@
     },
     {
       "customType": "BABYLON.MultiplyBlock",
+      "id": 10122,
+      "name": "Multiply",
+      "comments": "",
+      "visibleInInspector": false,
+      "visibleOnFrame": false,
+      "target": 4,
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 10121,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 394,
+          "targetConnectionName": "fresnel",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 10121,
+      "name": "Pearlescent 2",
+      "comments": "",
+      "visibleInInspector": true,
+      "visibleOnFrame": false,
+      "target": 1,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "min": 0,
+      "max": 1,
+      "isBoolean": true,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "SpecialLayer 2",
+      "convertToGammaSpace": false,
+      "convertToLinearSpace": false,
+      "valueType": "number",
+      "value": 0
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
       "id": 129,
       "name": "BaseColor Tint",
       "comments": "",
@@ -6044,7 +6239,7 @@
           "name": "right",
           "displayName": "right",
           "inputName": "right",
-          "targetBlockId": 132,
+          "targetBlockId": 10928,
           "targetConnectionName": "output",
           "isExposedOnFrame": true,
           "exposedPortPosition": -1
@@ -6132,6 +6327,82 @@
       "value": 0
     },
     {
+      "customType": "BABYLON.LerpBlock",
+      "id": 10928,
+      "name": "Lerp",
+      "comments": "",
+      "visibleInInspector": false,
+      "visibleOnFrame": false,
+      "target": 4,
+      "inputs": [
+        {
+          "name": "left",
+          "displayName": "Bottom Color",
+          "inputName": "left",
+          "targetBlockId": 10925,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        },
+        {
+          "name": "right",
+          "displayName": "BottomColor",
+          "inputName": "right",
+          "targetBlockId": 132,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": 0
+        },
+        {
+          "name": "gradient",
+          "displayName": "Inherit Color",
+          "inputName": "gradient",
+          "targetBlockId": 10927,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output",
+          "displayName": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 10925,
+      "name": "PearlescentColor 3",
+      "comments": "",
+      "visibleInInspector": true,
+      "visibleOnFrame": false,
+      "target": 1,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 32,
+      "mode": 0,
+      "animationType": 0,
+      "min": 0,
+      "max": 0,
+      "isBoolean": false,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "SpecialLayer 3",
+      "convertToGammaSpace": false,
+      "convertToLinearSpace": false,
+      "valueType": "BABYLON.Color3",
+      "value": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
       "customType": "BABYLON.InputBlock",
       "id": 132,
       "name": "Special ColorTint 3",
@@ -6162,6 +6433,66 @@
         0.9647058823529412,
         0.9647058823529412
       ]
+    },
+    {
+      "customType": "BABYLON.MultiplyBlock",
+      "id": 10927,
+      "name": "Multiply",
+      "comments": "",
+      "visibleInInspector": false,
+      "visibleOnFrame": false,
+      "target": 4,
+      "inputs": [
+        {
+          "name": "left",
+          "inputName": "left",
+          "targetBlockId": 10926,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        },
+        {
+          "name": "right",
+          "inputName": "right",
+          "targetBlockId": 394,
+          "targetConnectionName": "fresnel",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 10926,
+      "name": "Pearlescent 3",
+      "comments": "",
+      "visibleInInspector": true,
+      "visibleOnFrame": false,
+      "target": 1,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "min": 0,
+      "max": 1,
+      "isBoolean": true,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "SpecialLayer 3",
+      "convertToGammaSpace": false,
+      "convertToLinearSpace": false,
+      "valueType": "number",
+      "value": 0
     },
     {
       "customType": "BABYLON.LerpBlock",
