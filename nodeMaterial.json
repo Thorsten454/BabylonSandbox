@@ -5509,7 +5509,7 @@
         }
       ],
       "convertToGammaSpace": false,
-      "convertToLinearSpace": false,
+      "convertToLinearSpace": true,
       "fragmentOnly": false,
       "texture": {
         "tags": null,
