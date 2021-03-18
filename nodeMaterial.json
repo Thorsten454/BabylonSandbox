@@ -1624,7 +1624,7 @@
         ]
       }
     ],
-    "x": 4865.095806487707,
+    "x": 4738.095806487707,
     "y": -170.7886419232764,
     "zoom": 0.6145687236154261
   },
@@ -8617,7 +8617,7 @@
     {
       "customType": "BABYLON.InputBlock",
       "id": 4754,
-      "name": "Metallic Foil",
+      "name": "MetallicFoil",
       "comments": "",
       "visibleInInspector": true,
       "visibleOnFrame": false,
