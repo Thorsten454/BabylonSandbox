@@ -1,0 +1,425 @@
+{
+  "editorData": {
+    "locations": [
+      {
+        "blockId": 216,
+        "x": 7950,
+        "y": 600
+      },
+      {
+        "blockId": 43,
+        "x": 8235,
+        "y": 420
+      },
+      {
+        "blockId": 217,
+        "x": 8115,
+        "y": 915
+      },
+      {
+        "blockId": 252,
+        "x": 8190,
+        "y": 735
+      },
+      {
+        "blockId": 42,
+        "x": 8535,
+        "y": 585
+      },
+      {
+        "blockId": 253,
+        "x": 8415,
+        "y": 1035
+      },
+      {
+        "blockId": 272,
+        "x": 8670,
+        "y": 1155
+      },
+      {
+        "blockId": 41,
+        "x": 9060,
+        "y": 855
+      }
+    ],
+    "frames": [
+      {
+        "x": 7830,
+        "y": 315,
+        "width": 1460.65,
+        "height": 1125,
+        "color": [
+          0.2823529411764706,
+          0.2823529411764706,
+          0.2823529411764706
+        ],
+        "name": "ChannelSwitches",
+        "isCollapsed": true,
+        "blocks": [
+          216,
+          43,
+          217,
+          252,
+          42,
+          253,
+          272,
+          41
+        ]
+      }
+    ]
+  },
+  "blocks": [
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 216,
+      "name": "Debug_BC_N",
+      "comments": "",
+      "visibleInInspector": true,
+      "visibleOnFrame": false,
+      "target": 1,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "min": 0,
+      "max": 1,
+      "isBoolean": true,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "",
+      "convertToGammaSpace": false,
+      "convertToLinearSpace": false,
+      "valueType": "number",
+      "value": 1
+    },
+    {
+      "customType": "BABYLON.LerpBlock",
+      "id": 43,
+      "name": "Lerp",
+      "comments": "BaseColor / Normal Blend",
+      "visibleInInspector": false,
+      "visibleOnFrame": false,
+      "target": 4,
+      "inputs": [
+        {
+          "name": "left",
+          "displayName": "BaseColor",
+          "inputName": "left",
+          "targetBlockId": 44,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": 0
+        },
+        {
+          "name": "right",
+          "displayName": "Normal",
+          "inputName": "right",
+          "targetBlockId": 117,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": 1
+        },
+        {
+          "name": "gradient",
+          "displayName": "gradient",
+          "inputName": "gradient",
+          "targetBlockId": 216,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output",
+          "displayName": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.VectorMergerBlock",
+      "id": 217,
+      "name": "VectorMerger",
+      "comments": "",
+      "visibleInInspector": false,
+      "visibleOnFrame": false,
+      "target": 4,
+      "inputs": [
+        {
+          "name": "xyz ",
+          "displayName": "xyz "
+        },
+        {
+          "name": "xy ",
+          "displayName": "xy "
+        },
+        {
+          "name": "zw ",
+          "displayName": "x"
+        },
+        {
+          "name": "x",
+          "displayName": "x"
+        },
+        {
+          "name": "y",
+          "displayName": "rough",
+          "inputName": "y",
+          "targetBlockId": 218,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": 2
+        },
+        {
+          "name": "z",
+          "displayName": "metallic",
+          "inputName": "z",
+          "targetBlockId": 241,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": 3
+        },
+        {
+          "name": "w",
+          "displayName": "w"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "xyzw",
+          "displayName": "xyzw"
+        },
+        {
+          "name": "xyz",
+          "displayName": "xyz"
+        },
+        {
+          "name": "xy",
+          "displayName": "xy"
+        },
+        {
+          "name": "zw",
+          "displayName": "zw"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 252,
+      "name": "Debug_MRCC",
+      "comments": "",
+      "visibleInInspector": true,
+      "visibleOnFrame": false,
+      "target": 1,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "min": 0,
+      "max": 1,
+      "isBoolean": true,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "",
+      "convertToGammaSpace": false,
+      "convertToLinearSpace": false,
+      "valueType": "number",
+      "value": 0
+    },
+    {
+      "customType": "BABYLON.LerpBlock",
+      "id": 42,
+      "name": "Lerp",
+      "comments": "BaseColor / Normal Blend",
+      "visibleInInspector": false,
+      "visibleOnFrame": false,
+      "target": 4,
+      "inputs": [
+        {
+          "name": "left",
+          "displayName": "left",
+          "inputName": "left",
+          "targetBlockId": 43,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        },
+        {
+          "name": "right",
+          "displayName": "right",
+          "inputName": "right",
+          "targetBlockId": 217,
+          "targetConnectionName": "xyz",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        },
+        {
+          "name": "gradient",
+          "displayName": "gradient",
+          "inputName": "gradient",
+          "targetBlockId": 252,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output",
+          "displayName": "output"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.VectorMergerBlock",
+      "id": 253,
+      "name": "VectorMerger",
+      "comments": "",
+      "visibleInInspector": false,
+      "visibleOnFrame": false,
+      "target": 4,
+      "inputs": [
+        {
+          "name": "xyz ",
+          "displayName": "xyz "
+        },
+        {
+          "name": "xy ",
+          "displayName": "xy "
+        },
+        {
+          "name": "zw ",
+          "displayName": "intensity"
+        },
+        {
+          "name": "x",
+          "displayName": "CC Mask",
+          "inputName": "x",
+          "targetBlockId": 254,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": 4
+        },
+        {
+          "name": "y",
+          "displayName": "CC Rough",
+          "inputName": "y",
+          "targetBlockId": 265,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": 5
+        },
+        {
+          "name": "z",
+          "displayName": "z"
+        },
+        {
+          "name": "w",
+          "displayName": "w"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "xyzw",
+          "displayName": "xyzw"
+        },
+        {
+          "name": "xyz",
+          "displayName": "xyz"
+        },
+        {
+          "name": "xy",
+          "displayName": "xy"
+        },
+        {
+          "name": "zw",
+          "displayName": "zw"
+        }
+      ]
+    },
+    {
+      "customType": "BABYLON.InputBlock",
+      "id": 272,
+      "name": "Debug_CC",
+      "comments": "",
+      "visibleInInspector": true,
+      "visibleOnFrame": false,
+      "target": 1,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "output"
+        }
+      ],
+      "type": 1,
+      "mode": 0,
+      "animationType": 0,
+      "min": 0,
+      "max": 1,
+      "isBoolean": true,
+      "matrixMode": 0,
+      "isConstant": false,
+      "groupInInspector": "",
+      "convertToGammaSpace": false,
+      "convertToLinearSpace": false,
+      "valueType": "number",
+      "value": 0
+    },
+    {
+      "customType": "BABYLON.LerpBlock",
+      "id": 41,
+      "name": "Lerp",
+      "comments": "Masks / CC",
+      "visibleInInspector": false,
+      "visibleOnFrame": false,
+      "target": 4,
+      "inputs": [
+        {
+          "name": "left",
+          "displayName": "left",
+          "inputName": "left",
+          "targetBlockId": 42,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        },
+        {
+          "name": "right",
+          "displayName": "right",
+          "inputName": "right",
+          "targetBlockId": 253,
+          "targetConnectionName": "xyz",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        },
+        {
+          "name": "gradient",
+          "displayName": "gradient",
+          "inputName": "gradient",
+          "targetBlockId": 272,
+          "targetConnectionName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": -1
+        }
+      ],
+      "outputs": [
+        {
+          "name": "output",
+          "displayName": "output",
+          "isExposedOnFrame": true,
+          "exposedPortPosition": 0
+        }
+      ]
+    }
+  ]
+}
