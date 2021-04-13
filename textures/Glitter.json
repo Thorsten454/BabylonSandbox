@@ -1,0 +1,91 @@
+{
+    "Glitter Silber": {
+        "BaseColorTexture": "Glitter_Silber_COL.png",
+        "DetailNormalIntensity": "0.854",
+        "DetailNormalMapTexture": "Glitter_Silber_NRM.png",
+        "DetailNormalTiling": "16",
+        "Metallic": "1",
+        "NormalMapIntensity": "0,0,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.256"
+    },
+    "Glitter bunt dicht klein": {
+        "BaseColorTexture": "Glitter_bunt_dicht_klein_COL.png",
+        "DetailNormalIntensity": "0.854",
+        "DetailNormalMapTexture": "Glitter_bunt_dicht_klein_NRM.png",
+        "DetailNormalTiling": "16",
+        "Metallic": "1",
+        "NormalMapIntensity": "0,0,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.256"
+    },
+    "Glitter bunt locker groﬂ": {
+        "BaseColorTexture": "Glitter_bunt_locker_groﬂ_COL.png",
+        "DetailNormalIntensity": "0.854",
+        "DetailNormalMapTexture": "Glitter_bunt_locker_groﬂ_NRM.png",
+        "DetailNormalTiling": "10",
+        "Metallic": "1",
+        "NormalMapIntensity": "0,0,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.256"
+    },
+    "Glitter gold locker klein;": {
+        "BaseColorTexture": "Glitter_Gold_Locker_klein_COL.png",
+        "DetailNormalIntensity": "0.854",
+        "DetailNormalMapTexture": "Glitter_Gold_Locker_klein_NRM.png",
+        "DetailNormalTiling": "16",
+        "Metallic": "1",
+        "NormalMapIntensity": "0,0,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.256"
+    },
+    "Glitter gr¸n locker klein": {
+        "BaseColorTexture": "Glitter_gruen_locker_klein_COL.png",
+        "DetailNormalIntensity": "0.854",
+        "DetailNormalMapTexture": "Glitter_gruen_locker_klein_NRM.png",
+        "DetailNormalTiling": "36",
+        "Metallic": "1",
+        "NormalMapIntensity": "0,0,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.256"
+    },
+    "Gold Glitter Todd": {
+        "BaseColorTexture": "Glitter_Gold_Locker_klein_COL.png",
+        "DetailNormalIntensity": "0.854",
+        "DetailNormalMapTexture": "Glitter_Gold_Locker_klein_NRM.png",
+        "DetailNormalTiling": "36",
+        "Metallic": "1",
+        "NormalMapIntensity": "0,0,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.256"
+    },
+    "Weihnachtsbaum GLITZER": {
+        "BaseColorTexture": "Glitter_Silber_COL.png",
+        "DetailNormalIntensity": "0.854",
+        "DetailNormalMapTexture": "Glitter_Silber_NRM.png",
+        "DetailNormalTiling": "24",
+        "Metallic": "1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.256"
+    },
+    "Weihnachtsbaum GLITZER 2": {
+        "BaseColorTexture": "Glitter_Silber_COL.png",
+        "DetailNormalIntensity": "0.854",
+        "DetailNormalMapTexture": "Glitter_Silber_NRM.png",
+        "DetailNormalTiling": "24",
+        "Metallic": "1",
+        "NormalMapIntensity": "0.2,0.2,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.256"
+    },
+    "Weihnachtsbaum GLITZER 3": {
+        "BaseColorTexture": "Glitter_Silber_COL.png",
+        "DetailNormalIntensity": "0.854",
+        "DetailNormalMapTexture": "Glitter_Silber_NRM.png",
+        "DetailNormalTiling": "24",
+        "Metallic": "1",
+        "NormalMapIntensity": "0.4,0.4,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.256"
+    }
+}
