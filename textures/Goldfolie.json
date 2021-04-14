@@ -1,13 +1,4 @@
 {
-    "Black Print": {
-        "BaseColorTexture": "t_default_COL.jpg",
-        "BaseColorTint": "0.118,0.118,0.118,1",
-        "DetailNormalIntensity": "1",
-        "DetailNormalMapTexture": "t_default_NRM.jpg",
-        "NormalMapIntensity": "0,0,1",
-        "NormalMapTexture": "t_default_NRM.jpg",
-        "Roughness": "0.9"
-    },
     "Gold dunkel flach glitter": {
         "BaseColorTexture": "t_default_COL.jpg",
         "BaseColorTint": "0.918,0.843,0.498,1",
@@ -19,7 +10,7 @@
         "NormalMapTexture": "t_default_NRM.jpg",
         "Roughness": "0.4"
     },
-    "Gold dunkel flach körnig": {
+    "Gold dunkel flach k\u00f6rnig": {
         "BaseColorTexture": "t_default_COL.jpg",
         "BaseColorTint": "0.83,0.68,0.21,1",
         "ClearCoatEnabled": "1",
@@ -30,7 +21,7 @@
         "NormalMapTexture": "t_default_NRM.jpg",
         "Roughness": "0.4"
     },
-    "Gold dunkel flach stark körnig": {
+    "Gold dunkel flach stark k\u00f6rnig": {
         "BaseColorTexture": "t_default_COL.jpg",
         "BaseColorTint": "0.83,0.68,0.21,1",
         "ClearCoatEnabled": "1",
@@ -102,7 +93,7 @@
         "NormalMapTexture": "t_default_NRM.jpg",
         "Roughness": "0.4"
     },
-    "Gold hell flach körnig": {
+    "Gold hell flach k\u00f6rnig": {
         "BaseColorTexture": "t_default_COL.jpg",
         "BaseColorTint": "0.922,0.843,0.498,1",
         "ClearCoatEnabled": "1",
@@ -113,7 +104,7 @@
         "NormalMapTexture": "t_default_NRM.jpg",
         "Roughness": "0.4"
     },
-    "Gold hell flach körnig stark": {
+    "Gold hell flach k\u00f6rnig stark": {
         "BaseColorTexture": "t_default_COL.jpg",
         "BaseColorTint": "0.922,0.843,0.498,1",
         "ClearCoatEnabled": "1",
@@ -165,7 +156,7 @@
         "NormalMapTexture": "t_default_NRM.jpg",
         "Roughness": "0.25"
     },
-    "Gold sehr hell flach körnig": {
+    "Gold sehr hell flach k\u00f6rnig": {
         "BaseColorTexture": "t_default_COL.jpg",
         "BaseColorTint": "0.965,0.937,0.667,1",
         "ClearCoatEnabled": "1",
@@ -175,70 +166,5 @@
         "Metallic": "1",
         "NormalMapTexture": "t_default_NRM.jpg",
         "Roughness": "0.25"
-    },
-    "Green Print Linen": {
-        "BaseColorTexture": "Green_Print_Linen_COL.png",
-        "BaseColorTint": "0.251,0.706,0.239,1",
-        "DetailNormalIntensity": "1",
-        "DetailNormalMapTexture": "Green_Print_Linen_NRM.png",
-        "NormalMapIntensity": "0,0,1",
-        "NormalMapTexture": "t_default_NRM.jpg",
-        "Roughness": "0.75"
-    },
-    "Grün Print": {
-        "BaseColorTexture": "t_default_COL.jpg",
-        "BaseColorTint": "0,0.659,0.298,1",
-        "DetailNormalMapTexture": "t_default_NRM.jpg",
-        "NormalMapIntensity": "0,0,1",
-        "NormalMapTexture": "t_default_NRM.jpg",
-        "Roughness": "0.758"
-    },
-    "Grün Print 2": {
-        "BaseColorTexture": "t_default_COL.jpg",
-        "BaseColorTint": "0.008,0.463,0.173,1",
-        "DetailNormalMapTexture": "t_default_NRM.jpg",
-        "NormalMapIntensity": "0,0,1",
-        "NormalMapTexture": "t_default_NRM.jpg",
-        "Roughness": "0.758"
-    },
-    "Orange Print": {
-        "BaseColorTexture": "t_default_COL.jpg",
-        "BaseColorTint": "1,0.663,0.353,1",
-        "DetailNormalMapTexture": "t_default_NRM.jpg",
-        "NormalMapIntensity": "0,0,1",
-        "NormalMapTexture": "t_default_NRM.jpg",
-        "Roughness": "0.758"
-    },
-    "Pink Print": {
-        "BaseColorTexture": "t_default_COL.jpg",
-        "BaseColorTint": "0.565,0.137,0.353,1",
-        "DetailNormalMapTexture": "t_default_NRM.jpg",
-        "NormalMapIntensity": "0,0,1",
-        "NormalMapTexture": "t_default_NRM.jpg",
-        "Roughness": "0.758"
-    },
-    "Rot Print": {
-        "BaseColorTexture": "t_default_COL.jpg",
-        "BaseColorTint": "0.561,0.118,0.137,1",
-        "DetailNormalMapTexture": "t_default_NRM.jpg",
-        "NormalMapIntensity": "0,0,1",
-        "NormalMapTexture": "t_default_NRM.jpg",
-        "Roughness": "0.758"
-    },
-    "Transparent Druck": {
-        "BaseColorTexture": "t_default_COL.jpg",
-        "DetailNormalMapTexture": "t_default_NRM.jpg",
-        "InheritBaseColor": "1",
-        "NormalMapIntensity": "0,0,1",
-        "NormalMapTexture": "t_default_NRM.jpg",
-        "Roughness": "0.9"
-    },
-    "White Print": {
-        "BaseColorTexture": "t_default_COL.jpg",
-        "BaseColorTint": "0.9,0.9,0.9,1",
-        "DetailNormalMapTexture": "t_default_NRM.jpg",
-        "NormalMapIntensity": "0,0,1",
-        "NormalMapTexture": "t_default_NRM.jpg",
-        "Roughness": "0.758"
     }
 }
