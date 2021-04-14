@@ -1,0 +1,108 @@
+{
+    "UV Lack Zucker": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.9,0.9,0.9,1",
+        "DetailNormalIntensity": "0.13",
+        "DetailNormalMapTexture": "UV_Spot_Lack_Zucker_NRM.png",
+        "DetailNormalTiling": "4",
+        "InheritBaseColor": "1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.011"
+    },
+    "UV Lack glatt flach": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.9,0.9,0.9,1",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "InheritBaseColor": "1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.124"
+    },
+    "UV Lack glatt hoch": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "InheritBaseColor": "1",
+        "NormalMapIntensity": "1,1,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.124"
+    },
+    "UV Lack glatt hoch 2": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "InheritBaseColor": "1",
+        "NormalMapIntensity": "0.3,0.3,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.248"
+    },
+    "UV Spot Lack flach koernig": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.9,0.9,0.9,1",
+        "DetailNormalIntensity": "0.1",
+        "DetailNormalMapTexture": "UV_Spot_Lack_koernig_NRM.png",
+        "DetailNormalTiling": "16",
+        "InheritBaseColor": "1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.12"
+    },
+    "UV Spot Lack flach matt": {
+        "BaseColorTint": "0.9,0.9,0.9,1",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "InheritBaseColor": "1",
+        "Roughness": "0.4"
+    },
+    "UV Spot Lack flach sehr matt": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "InheritBaseColor": "1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.9"
+    },
+    "UV Spot Lack flach stark wolkig": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.9,0.9,0.9,1",
+        "DetailNormalIntensity": "0.1",
+        "DetailNormalMapTexture": "UV_Spot_Lack_stark_wolkig_NRM.png",
+        "DetailNormalTiling": "4",
+        "InheritBaseColor": "1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.05"
+    },
+    "UV Spot Lack flach wolkig": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.9,0.9,0.9,1",
+        "DetailNormalIntensity": "0.05",
+        "DetailNormalMapTexture": "UV_Spot_Lack_stark_wolkig_NRM.png",
+        "DetailNormalTiling": "4",
+        "InheritBaseColor": "1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.05"
+    },
+    "UV Spot Lack glatt flach": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.9,0.9,0.9,1",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "InheritBaseColor": "1",
+        "NormalMapIntensity": "0.2,0.2,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.124"
+    },
+    "UV Spot Lack wolkig hoch": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.9,0.9,0.9,1",
+        "DetailNormalIntensity": "0.05",
+        "DetailNormalMapTexture": "UV_Spot_Lack_stark_wolkig_NRM.png",
+        "DetailNormalTiling": "4",
+        "InheritBaseColor": "1",
+        "NormalMapIntensity": "1,1,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.05"
+    },
+    "Weihnachtsbaum SPOTLACK": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.9,0.9,0.9,1",
+        "DetailNormalIntensity": "0.012",
+        "DetailNormalMapTexture": "UV_Spot_Lack_stark_wolkig_NRM.png",
+        "InheritBaseColor": "1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.07"
+    }
+}
