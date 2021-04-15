@@ -127,7 +127,7 @@
         "DetailNormalMapTexture": "VIME_Leinen_NRM.png",
         "InheritBaseColor": "1",
         "NormalMapIntensity": "1,1,1",
-        "NormalMapTexture": "../Relieflack/t_default_NRM.jpg",
+        "NormalMapTexture": "t_default_NRM.jpg",
         "Roughness": "0.8"
     },
     "ZeitFuerNeues metallic": {
@@ -142,7 +142,7 @@
         "Roughness": "0.478"
     },
     "ZeitFuerNeues metallic 2": {
-        "BaseColorTexture": "../VIME_Leinen/VIME_Leinen_COL.png",
+        "BaseColorTexture": "VIME_Leinen_COL.png",
         "BaseColorTint": "0.659,0.784,0.878,1",
         "DetailNormalIntensity": "1",
         "DetailNormalMapTexture": "VIME_Leinen_NRM.png",
