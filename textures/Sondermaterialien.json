@@ -1,0 +1,155 @@
+{
+    " Softtouch partiell": {
+        "BaseColorTexture": "../Relieflack/t_default_COL.jpg",
+        "DetailNormalMapTexture": "../Relieflack/t_default_NRM.jpg",
+        "InheritBaseColor": "1",
+        "NormalMapTexture": "../Relieflack/t_default_NRM.jpg",
+        "Roughness": "0.8"
+    },
+    "1P neu": {
+        "BaseColorTint": "0.639,0.219,0.09,1",
+        "DetailNormalIntensity": "0.007",
+        "DetailNormalMapTexture": "Sondermaterialien_Noise_koernig_NRM.png",
+        "Metallic": "1",
+        "NormalMapIntensity": "0.015,0.015,1",
+        "Roughness": "0.25"
+    },
+    "GRL PWR KF": {
+        "BaseColorTint": "0.75,0.025,0,1",
+        "ClearCoatEnabled": "1",
+        "ClearCoatRoughness": "0.07",
+        "DetailNormalIntensity": "0.006",
+        "DetailNormalMapTexture": "Sondermaterialien_Noise_koernig_NRM.png",
+        "DetailNormalTiling": "6",
+        "Metallic": "1",
+        "Roughness": "0.11"
+    },
+    "GRL PWR KF 2": {
+        "BaseColorTint": "0.506,0.012,0,1",
+        "ClearCoatEnabled": "1",
+        "ClearCoatRoughness": "0.07",
+        "DetailNormalIntensity": "0.006",
+        "DetailNormalMapTexture": "Sondermaterialien_Noise_koernig_NRM.png",
+        "DetailNormalTiling": "6",
+        "Metallic": "1",
+        "Roughness": "0.11"
+    },
+    "Glanzfolie blau streifig": {
+        "BaseColorTint": "0,0.67,1,1",
+        "DetailNormalIntensity": "0.03",
+        "DetailNormalMapTexture": "Sondermaterialien_Noise_Streifig_NRM.png",
+        "Metallic": "1",
+        "NormalMapIntensity": "0.015,0.015,1",
+        "Roughness": "0.25"
+    },
+    "Glanzfolie gruen koernig": {
+        "BaseColorTint": "0.359,0.5,0.171,1",
+        "DetailNormalIntensity": "0.03",
+        "DetailNormalMapTexture": "Sondermaterialien_Noise_koernig_NRM.png",
+        "DetailNormalTiling": "6",
+        "Metallic": "1",
+        "NormalMapIntensity": "0.23,0.23,1",
+        "Roughness": "0.2"
+    },
+    "Glanzfolie gruen koernig (AM)": {
+        "BaseColorTint": "0.1,0.8,0.1,1",
+        "DetailNormalIntensity": "0.03",
+        "DetailNormalMapTexture": "Sondermaterialien_Noise_koernig_NRM.png",
+        "DetailNormalTiling": "6",
+        "Metallic": "1",
+        "Roughness": "0.25"
+    },
+    "Glanzfolie gruen streifig": {
+        "BaseColorTint": "0.408,0.9,0.256,1",
+        "DetailNormalIntensity": "0.03",
+        "DetailNormalMapTexture": "Sondermaterialien_Noise_Streifig_2_NRM.png",
+        "DetailNormalTiling": "24",
+        "NormalMapIntensity": "0.88,0.88,1",
+        "Roughness": "0.25"
+    },
+    "Glanzfolie gruen wolkig": {
+        "BaseColorTint": "0,0.9,0,1",
+        "DetailNormalIntensity": "0.05",
+        "DetailNormalMapTexture": "Sondermaterialien_Noise_wolkig_NRM.png",
+        "DetailNormalTiling": "24",
+        "NormalMapIntensity": "0.1,0.1,1",
+        "Roughness": "0.15"
+    },
+    "Glanzfolie lila wolkig": {
+        "BaseColorTint": "0.4,0.2,0.4,1",
+        "DetailNormalIntensity": "0.05",
+        "DetailNormalMapTexture": "Sondermaterialien_Noise_wolkig_NRM.png",
+        "DetailNormalTiling": "24",
+        "NormalMapIntensity": "0.1,0.1,1",
+        "Roughness": "0.15"
+    },
+    "Glanzfolie orange koernig": {
+        "BaseColorTint": "1,0.706,0.149,1",
+        "DetailNormalIntensity": "0.03",
+        "DetailNormalMapTexture": "Sondermaterialien_Noise_koernig_NRM.png",
+        "DetailNormalTiling": "6",
+        "NormalMapIntensity": "0.23,0.23,1",
+        "Roughness": "0.15"
+    },
+    "Glanzfolie rot streifig": {
+        "BaseColorTint": "1,0.315,0.122,1",
+        "DetailNormalIntensity": "0.03",
+        "DetailNormalMapTexture": "Sondermaterialien_Noise_Streifig_2_NRM.png",
+        "DetailNormalTiling": "24",
+        "NormalMapIntensity": "0.88,0.88,1",
+        "Roughness": "0.25"
+    },
+    "Metallicfolie silber": {
+        "BaseColorTint": "0.788,0.788,0.784,1",
+        "ClearCoatEnabled": "1",
+        "ClearCoatRoughness": "0.07",
+        "DetailNormalIntensity": "0.006",
+        "DetailNormalMapTexture": "Sondermaterialien_Noise_koernig_NRM.png",
+        "DetailNormalTiling": "6",
+        "Metallic": "1",
+        "NormalMapIntensity": "1,1,1",
+        "Roughness": "0.987"
+    },
+    "Sandlack": {
+        "BaseColorTexture": "Sandlack_COL.png",
+        "BaseColorTint": "0.714,0.608,0.475,1",
+        "DetailNormalIntensity": "0.2",
+        "DetailNormalMapTexture": "Sandlack_NRM.png",
+        "DetailNormalTiling": "32",
+        "InheritBaseColor": "1",
+        "NormalMapIntensity": "0.01,0.01,1",
+        "Roughness": "0.15"
+    },
+    "ZeitFuerNeues 3": {
+        "BaseColorTexture": "../VIME_Leinen/VIME_Leinen_COL.png",
+        "BaseColorTint": "0.699,0.796,0.882,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../VIME_Leinen/VIME_Leinen_NRM.png",
+        "InheritBaseColor": "1",
+        "NormalMapIntensity": "1,1,1",
+        "NormalMapTexture": "../Relieflack/t_default_NRM.jpg",
+        "Roughness": "0.8"
+    },
+    "ZeitFuerNeues metallic": {
+        "BaseColorTexture": "../VIME_Leinen/VIME_Leinen_COL.png",
+        "BaseColorTint": "0.57,0.827,0.89,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../VIME_Leinen/VIME_Leinen_NRM.png",
+        "InheritBaseColor": "1",
+        "Metallic": "0.51",
+        "NormalMapIntensity": "1,1,1",
+        "NormalMapTexture": "../Relieflack/t_default_NRM.jpg",
+        "Roughness": "0.478"
+    },
+    "ZeitFuerNeues metallic 2": {
+        "BaseColorTexture": "../VIME_Leinen/VIME_Leinen_COL.png",
+        "BaseColorTint": "0.659,0.784,0.878,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../VIME_Leinen/VIME_Leinen_NRM.png",
+        "InheritBaseColor": "1",
+        "Metallic": "0.51",
+        "NormalMapIntensity": "1,1,1",
+        "NormalMapTexture": "../Relieflack/t_default_NRM.jpg",
+        "Roughness": "0.516"
+    }
+}

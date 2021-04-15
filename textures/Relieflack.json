@@ -1,0 +1,253 @@
+{
+    "Butter Tiefpraegung": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "InheritBaseColor": "1",
+        "NormalMapIntensity": "-1,-1,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.8"
+    },
+    "Fluister Man Multilevel P Glanz 3": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "ClearCoatEnabled": "1",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "InheritBaseColor": "1",
+        "Metallic": "1",
+        "NormalMapIntensity": "1,1,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.3"
+    },
+    "Fluister Man SpotL Praeg": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "InheritBaseColor": "1",
+        "NormalMapIntensity": "1,1,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.12"
+    },
+    "Gold Relieflack hell glatt": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.949,0.898,0.659,1",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "Metallic": "1",
+        "NormalMapIntensity": "0.94,0.94,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.45"
+    },
+    "Gold Relieflack hell glatt gerundet": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.949,0.898,0.659,1",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "Metallic": "1",
+        "NormalMapIntensity": "0.51,0.51,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.45"
+    },
+    "Gold Relieflack hell streifig": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.83,0.68,0.362,1",
+        "DetailNormalIntensity": "0.03",
+        "DetailNormalMapTexture": "Relieflack_Noise_Streifig_NRM.png",
+        "Metallic": "1",
+        "NormalMapIntensity": "0.14,0.14,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.45"
+    },
+    "Gold Relieflack sehr hell glatt": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.949,0.898,0.659,1",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "InheritBaseColor": "1",
+        "Metallic": "1",
+        "NormalMapIntensity": "0.14,0.14,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.2"
+    },
+    "Hochpraegung alt": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "InheritBaseColor": "1",
+        "Inherit_MR": "1",
+        "NormalMapIntensity": "1,1,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.05"
+    },
+    "Hochpraegung gerundet": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.9,0.9,0.9,1",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "InheritBaseColor": "1",
+        "NormalMapIntensity": "0.8,0.8,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.05"
+    },
+    "Hochpraegung gerundet hoch": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.912,0.84,0.638,1",
+        "DetailNormalIntensity": "0.04",
+        "DetailNormalMapTexture": "Relieflack_Noise_koernig_NRM.png",
+        "InheritBaseColor": "1",
+        "Metallic": "1",
+        "NormalMapIntensity": "1,1,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.15"
+    },
+    "Hochpraegung neu": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "InheritBaseColor": "1",
+        "Inherit_MR": "1",
+        "NormalMapIntensity": "1,1,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.05"
+    },
+    "Hochpraegung white": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.943,0.943,0.943,1",
+        "DetailNormalIntensity": "0.08",
+        "DetailNormalMapTexture": "Relieflack_Noise_koernig_NRM.png",
+        "DetailNormalTiling": "1",
+        "InheritBaseColor": "1",
+        "Metallic": "0.508",
+        "NormalMapIntensity": "1,1,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.365"
+    },
+    "Jame VEG Relieflack": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "DetailNormalIntensity": "0.015",
+        "DetailNormalMapTexture": "Relieflack_Noise_wolkig_NRM.png",
+        "DetailNormalTiling": "3",
+        "InheritBaseColor": "1",
+        "NormalMapIntensity": "0.4,0.4,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.01"
+    },
+    "Jame VEG Relieflack 2": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "DetailNormalIntensity": "0.015",
+        "DetailNormalMapTexture": "Relieflack_Noise_wolkig_NRM.png",
+        "DetailNormalTiling": "3",
+        "InheritBaseColor": "1",
+        "NormalMapIntensity": "0.4,0.4,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.01"
+    },
+    "Pink Relief": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "1,0.161,0.651,1",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "Metallic": "1",
+        "NormalMapIntensity": "1,1,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.01"
+    },
+    "Pink Relief 2": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "1,0.161,0.651,1",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "Metallic": "1",
+        "NormalMapIntensity": "0.1,0.1,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.01"
+    },
+    "Silber Relieflack dunkel wolkig": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.7,0.7,0.7,1",
+        "DetailNormalIntensity": "0.03",
+        "DetailNormalMapTexture": "Relieflack_Noise_wolkig_NRM.png",
+        "DetailNormalTiling": "3",
+        "Metallic": "1",
+        "NormalMapIntensity": "0.66,0.66,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.104"
+    },
+    "Silber Relieflack hell wolkig": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.85,0.85,0.85,1",
+        "DetailNormalIntensity": "0.03",
+        "DetailNormalMapTexture": "Relieflack_Noise_wolkig_NRM.png",
+        "DetailNormalTiling": "3",
+        "Metallic": "1",
+        "NormalMapIntensity": "0.66,0.66,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.104"
+    },
+    "Tiefpraegung Erebos": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "InheritBaseColor": "1",
+        "NormalMapIntensity": "-1,-1,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.8"
+    },
+    "Tiefpraegung Erebos 2": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "InheritBaseColor": "1",
+        "NormalMapIntensity": "-1,-1,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.9"
+    },
+    "Tiefpraegung alt": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "InheritBaseColor": "1",
+        "NormalMapIntensity": "-1,-1,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.8"
+    },
+    "Tiefpraegung gerundet": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "InheritBaseColor": "1",
+        "NormalMapIntensity": "-0.8,-0.8,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.4"
+    },
+    "Tiefpraegung glanz": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "InheritBaseColor": "1",
+        "NormalMapIntensity": "-0.1,-0.1,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.01"
+    },
+    "Tiefpraegung glanz wolkig": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "DetailNormalIntensity": "0.03",
+        "DetailNormalMapTexture": "Relieflack_Noise_wolkig_NRM.png",
+        "DetailNormalTiling": "3",
+        "InheritBaseColor": "1",
+        "NormalMapIntensity": "-0.1,-0.1,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.01"
+    },
+    "Tovenaars Gold Relief": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.949,0.898,0.659,1",
+        "DetailNormalIntensity": "0.015",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "Metallic": "1",
+        "NormalMapIntensity": "0.3,0.3,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.45"
+    },
+    "Tovenaars Silber Relief": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.85,0.85,0.85,1",
+        "DetailNormalIntensity": "0.015",
+        "DetailNormalMapTexture": "Relieflack_Noise_koernig_NRM.png",
+        "Metallic": "1",
+        "NormalMapIntensity": "0.3,0.3,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.45"
+    },
+    "Vimebook Tiefpraegung 4": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "InheritBaseColor": "1",
+        "NormalMapIntensity": "-1,-1,1",
+        "NormalMapTexture": "t_default_NRM.jpg"
+    }
+}

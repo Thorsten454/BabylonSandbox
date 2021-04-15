@@ -1,0 +1,18 @@
+{
+    "Hochpraegung": {
+        "BaseColorTexture": "t_default_D.jpg",
+        "DetailNormalMapTexture": "t_default_N.jpg",
+        "InheritBaseColor": "1",
+        "Inherit_MR": "1",
+        "NormalMapIntensity": "1,1,1",
+        "NormalMapTexture": "t_default_N.jpg"
+    },
+    "Tiefpraegung": {
+        "BaseColorTexture": "t_default_D.jpg",
+        "DetailNormalMapTexture": "t_default_N.jpg",
+        "InheritBaseColor": "1",
+        "Inherit_MR": "1",
+        "NormalMapIntensity": "1,-1,1",
+        "NormalMapTexture": "t_default_N.jpg"
+    }
+}
