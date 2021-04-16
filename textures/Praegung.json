@@ -1,18 +1,18 @@
 {
     "Hochpraegung": {
-        "BaseColorTexture": "t_default_D.jpg",
-        "DetailNormalMapTexture": "t_default_N.jpg",
+        "BaseColorTexture": "t_default_COL.jpg",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
         "InheritBaseColor": "1",
         "Inherit_MR": "1",
         "NormalMapIntensity": "1,1,1",
-        "NormalMapTexture": "t_default_N.jpg"
+        "NormalMapTexture": "t_default_NRM.jpg"
     },
     "Tiefpraegung": {
-        "BaseColorTexture": "t_default_D.jpg",
-        "DetailNormalMapTexture": "t_default_N.jpg",
+        "BaseColorTexture": "t_default_COL.jpg",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
         "InheritBaseColor": "1",
         "Inherit_MR": "1",
-        "NormalMapIntensity": "1,-1,1",
-        "NormalMapTexture": "t_default_N.jpg"
+        "NormalMapIntensity": "-1,-1,1",
+        "NormalMapTexture": "t_default_NRM.jpg"
     }
 }

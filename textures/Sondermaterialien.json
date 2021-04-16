@@ -1,17 +1,12 @@
 {
-    " Softtouch partiell": {
-        "BaseColorTexture": "../Relieflack/t_default_COL.jpg",
-        "DetailNormalMapTexture": "t_default_NRM.jpg",
-        "InheritBaseColor": "1",
-        "NormalMapTexture": "../Relieflack/t_default_NRM.jpg",
-        "Roughness": "0.8"
-    },
     "1P neu": {
+        "BaseColorTexture": "t_default_COL.jpg",
         "BaseColorTint": "0.639,0.219,0.09,1",
         "DetailNormalIntensity": "0.007",
         "DetailNormalMapTexture": "Sondermaterialien_Noise_koernig_NRM.png",
         "Metallic": "1",
         "NormalMapIntensity": "0.015,0.015,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
         "Roughness": "0.25"
     },
     "GRL PWR KF": {
@@ -119,6 +114,13 @@
         "InheritBaseColor": "1",
         "NormalMapIntensity": "0.01,0.01,1",
         "Roughness": "0.15"
+    },
+    "Softtouch partiell": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "InheritBaseColor": "1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.8"
     },
     "ZeitFuerNeues 3": {
         "BaseColorTexture": "VIME_Leinen_COL.png",
