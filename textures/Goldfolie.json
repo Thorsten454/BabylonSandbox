@@ -3,12 +3,13 @@
         "BaseColorTexture": "t_default_COL.jpg",
         "BaseColorTint": "0.918,0.843,0.498,1",
         "ClearCoatEnabled": "1",
+        "ClearCoatRoughness": "0.18",
         "DetailNormalIntensity": "0.5",
         "DetailNormalMapTexture": "Gold_dunkel_flach_glitter_NRM.png",
         "InheritBaseColor": "1",
         "Metallic": "1",
         "NormalMapTexture": "t_default_NRM.jpg",
-        "Roughness": "0.1"
+        "Roughness": "0"
     },
     "Gold dunkel flach k\u00f6rnig": {
         "BaseColorTexture": "t_default_COL.jpg",
