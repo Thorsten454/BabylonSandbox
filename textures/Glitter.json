@@ -1,13 +1,13 @@
 {
     "Glitter Silber": {
         "BaseColorTexture": "Glitter_Silber_COL.png",
-        "DetailNormalIntensity": "0.454",
+        "DetailNormalIntensity": "0.254",
         "DetailNormalMapTexture": "Glitter_Silber_NRM.png",
         "DetailNormalTiling": "16",
         "Metallic": "1",
         "NormalMapIntensity": "0,0,1",
         "NormalMapTexture": "t_default_NRM.jpg",
-        "Roughness": "0.256"
+        "Roughness": "0.1"
     },
     "Glitter bunt dicht klein": {
         "BaseColorTexture": "Glitter_bunt_dicht_klein_COL.png",
