@@ -8,15 +8,16 @@
         "InheritBaseColor": "1",
         "Metallic": "1",
         "NormalMapTexture": "t_default_NRM.jpg",
-        "Roughness": "0.2"
+        "Roughness": "0.1"
     },
     "Gold dunkel flach k\u00f6rnig": {
         "BaseColorTexture": "t_default_COL.jpg",
         "BaseColorTint": "0.83,0.68,0.21,1",
         "ClearCoatEnabled": "1",
-        "DetailNormalIntensity": "0.25",
+        "ClearCoatRoughness": "0.05",
+        "DetailNormalIntensity": "0.15",
         "DetailNormalMapTexture": "Gold_dunkel_flach_koernig_NRM.png",
-        "DetailNormalTiling": "16",
+        "DetailNormalTiling": "32",
         "Metallic": "1",
         "NormalMapTexture": "t_default_NRM.jpg",
         "Roughness": "0.2"
@@ -25,20 +26,23 @@
         "BaseColorTexture": "t_default_COL.jpg",
         "BaseColorTint": "0.83,0.68,0.21,1",
         "ClearCoatEnabled": "1",
+        "ClearCoatRoughness": "0.2",
         "DetailNormalIntensity": "0.5",
         "DetailNormalMapTexture": "Gold_dunkel_flach_koernig_NRM.png",
-        "DetailNormalTiling": "16",
+        "DetailNormalTiling": "32",
         "InheritBaseColor": "1",
         "Metallic": "1",
         "NormalMapIntensity": "0.2,0.2,1",
         "NormalMapTexture": "t_default_NRM.jpg",
-        "Roughness": "0.2"
+        "Roughness": "0.4"
     },
     "Gold dunkel flach wolkig": {
         "BaseColorTexture": "t_default_COL.jpg",
         "BaseColorTint": "0.918,0.843,0.498,1",
         "ClearCoatEnabled": "1",
-        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "DetailNormalIntensity": "0.1",
+        "DetailNormalMapTexture": "Gold_dunkel_flach_wolkig_NRM.png",
+        "DetailNormalTiling": "24",
         "Metallic": "1",
         "NormalMapIntensity": "0.05,0.05,1",
         "NormalMapTexture": "t_default_NRM.jpg",
@@ -46,7 +50,6 @@
     },
     "Gold dunkel flach wolkig glanz": {
         "BaseColorTexture": "t_default_COL.jpg",
-        "BaseColorTint": "0.871,0.816,0.588,1",
         "ClearCoatEnabled": "1",
         "ClearCoatTint": "0.918,0.843,0.498,1",
         "DetailNormalMapTexture": "t_default_NRM.jpg",
@@ -97,9 +100,10 @@
         "BaseColorTexture": "t_default_COL.jpg",
         "BaseColorTint": "0.922,0.843,0.498,1",
         "ClearCoatEnabled": "1",
-        "DetailNormalIntensity": "0.25",
+        "ClearCoatRoughness": "0.05",
+        "DetailNormalIntensity": "0.15",
         "DetailNormalMapTexture": "Gold_dunkel_flach_koernig_NRM.png",
-        "DetailNormalTiling": "16",
+        "DetailNormalTiling": "32",
         "Metallic": "1",
         "NormalMapTexture": "t_default_NRM.jpg",
         "Roughness": "0.2"
@@ -108,9 +112,10 @@
         "BaseColorTexture": "t_default_COL.jpg",
         "BaseColorTint": "0.922,0.843,0.498,1",
         "ClearCoatEnabled": "1",
+        "ClearCoatRoughness": "0.05",
         "DetailNormalIntensity": "0.5",
         "DetailNormalMapTexture": "Gold_dunkel_flach_koernig_NRM.png",
-        "DetailNormalTiling": "16",
+        "DetailNormalTiling": "32",
         "Metallic": "1",
         "NormalMapTexture": "t_default_NRM.jpg",
         "Roughness": "0.2"
@@ -121,7 +126,7 @@
         "ClearCoatEnabled": "1",
         "DetailNormalIntensity": "0.05",
         "DetailNormalMapTexture": "Gold_dunkel_flach_wolkig_NRM.png",
-        "DetailNormalTiling": "16",
+        "DetailNormalTiling": "32",
         "Metallic": "1",
         "NormalMapTexture": "t_default_NRM.jpg",
         "Roughness": "0.3"
@@ -132,7 +137,7 @@
         "ClearCoatEnabled": "1",
         "DetailNormalIntensity": "0.05",
         "DetailNormalMapTexture": "Gold_dunkel_flach_wolkig_NRM.png",
-        "DetailNormalTiling": "16",
+        "DetailNormalTiling": "32",
         "Metallic": "1",
         "NormalMapTexture": "t_default_NRM.jpg",
         "Roughness": "0.3"
@@ -151,20 +156,20 @@
         "ClearCoatEnabled": "1",
         "DetailNormalIntensity": "0.5",
         "DetailNormalMapTexture": "Gold_dunkel_flach_glitter_NRM.png",
-        "InheritBaseColor": "1",
         "Metallic": "1",
         "NormalMapTexture": "t_default_NRM.jpg",
         "Roughness": "0.25"
     },
     "Gold sehr hell flach k\u00f6rnig": {
         "BaseColorTexture": "t_default_COL.jpg",
-        "BaseColorTint": "0.965,0.937,0.667,1",
+        "BaseColorTint": "0.969,0.937,0.667,1",
         "ClearCoatEnabled": "1",
-        "DetailNormalIntensity": "0.25",
+        "ClearCoatRoughness": "0.05",
+        "DetailNormalIntensity": "0.15",
         "DetailNormalMapTexture": "Gold_dunkel_flach_koernig_NRM.png",
-        "DetailNormalTiling": "16",
+        "DetailNormalTiling": "32",
         "Metallic": "1",
         "NormalMapTexture": "t_default_NRM.jpg",
-        "Roughness": "0.25"
+        "Roughness": "0.2"
     }
 }
