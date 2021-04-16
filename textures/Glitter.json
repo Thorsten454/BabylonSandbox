@@ -5,7 +5,6 @@
         "DetailNormalMapTexture": "Glitter_Silber_NRM.png",
         "DetailNormalTiling": "16",
         "Metallic": "1",
-        "NormalMapIntensity": "0,0,1",
         "NormalMapTexture": "t_default_NRM.jpg",
         "Roughness": "0.1"
     },
