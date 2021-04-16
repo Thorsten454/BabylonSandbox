@@ -1,7 +1,7 @@
 {
     "Glitter Silber": {
         "BaseColorTexture": "Glitter_Silber_COL.png",
-        "DetailNormalIntensity": "0.854",
+        "DetailNormalIntensity": "0.454",
         "DetailNormalMapTexture": "Glitter_Silber_NRM.png",
         "DetailNormalTiling": "16",
         "Metallic": "1",
