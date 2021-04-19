@@ -1,0 +1,481 @@
+{
+    "VIME Leinen 4000": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.132,0.136,0.15,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4001": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4003": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.663,0.663,0.663,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4004": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.392,0.392,0.392,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4009": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.24,0.148,0.082,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4012": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.052,0.358,0.475,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4013": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.148,0.251,0.42,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4014": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.25,0.395,0.498,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4019": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.588,0.485,0.374,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4025": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.498,0.316,0.121,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4031": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.796,0.586,0.128,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4032": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.753,0.41,0.165,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4033": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.428,0.447,0.23,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4039": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.337,0.313,0.16,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4041": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.126,0.282,0.239,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4043": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.38,0.349,0.349,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4044": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.675,0.489,0.227,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4045": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.525,0.238,0.142,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4047": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.114,0.255,0.185,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4048": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.135,0.166,0.204,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4049": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.33,0.367,0.404,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4058": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.784,0.694,0.126,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4070": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.69,0.11,0.175,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4072": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.207,0.079,0.325,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4076": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.569,0.085,0.154,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4078": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.392,0.279,0.228,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4086": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.016,0.07,0.2,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4099": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.55,0.439,0.209,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4103": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.58,0.157,0.2,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4104": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.455,0.109,0.193,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4105": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.31,0.034,0.077,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4118": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.45,0.249,0.428,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4137": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.26,0.51,0.364,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4139": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.7,0.511,0.544,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4154": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.22,0.178,0.158,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4184": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.8,0.762,0.68,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4186": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.022,0.1,0.035,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4192": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.65,0.563,0.481,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4196": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.78,0.262,0.156,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4197": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.44,0.612,0.594,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4219": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.111,0.204,0.41,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4229": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.156,0.171,0.2,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4235": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.51,0.351,0.311,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4238": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.168,0.31,0.29,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4250": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.638,0.65,0.219,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4251": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.85,0.813,0.391,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4252": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.372,0.389,0.61,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4253": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.64,0.312,0.243,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4292": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.662,0.68,0.605,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4312": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.38,0.6,0.246,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4320": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.562,0.704,0.75,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4326": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.42,0.189,0.286,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4327": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.7,0.245,0.465,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4344": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.081,0.632,0.72,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4346": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.72,0.475,0.624,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4467": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.475,0.706,0.72,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen 4468": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.55,0.54,0.528,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen Creme": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.999,0.954,0.949,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "VIME Leinen Metallic": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "BaseColorTint": "1,1,0.8,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "Metallic": "1",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.608"
+    },
+    "VIME Leinen Puder": {
+        "BaseColorTexture": "../Farbiger_Print/Green_Print_Linen_COL.png",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "../Farbiger_Print/Green_Print_Linen_NRM.png",
+        "NormalMapTexture": "../Farbiger_Print/t_default_NRM.jpg",
+        "Roughness": "0.75"
+    }
+}

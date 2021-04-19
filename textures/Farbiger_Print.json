@@ -1,0 +1,76 @@
+{
+    "Black Print": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.118,0.118,0.118,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "NormalMapIntensity": "0,0,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.9"
+    },
+    "Green Print Linen": {
+        "BaseColorTexture": "Green_Print_Linen_COL.png",
+        "BaseColorTint": "0.251,0.706,0.239,1",
+        "DetailNormalIntensity": "1",
+        "DetailNormalMapTexture": "Green_Print_Linen_NRM.png",
+        "NormalMapIntensity": "0,0,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.75"
+    },
+    "Gr\u00fcn Print": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0,0.659,0.298,1",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "NormalMapIntensity": "0,0,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.758"
+    },
+    "Gr\u00fcn Print 2": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.008,0.463,0.173,1",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "NormalMapIntensity": "0,0,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.758"
+    },
+    "Orange Print": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "1,0.663,0.353,1",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "NormalMapIntensity": "0,0,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.758"
+    },
+    "Pink Print": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.565,0.137,0.353,1",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "NormalMapIntensity": "0,0,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.758"
+    },
+    "Rot Print": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.561,0.118,0.137,1",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "NormalMapIntensity": "0,0,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.758"
+    },
+    "Transparent Druck": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "InheritBaseColor": "1",
+        "NormalMapIntensity": "0,0,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.9"
+    },
+    "White Print": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.9,0.9,0.9,1",
+        "DetailNormalMapTexture": "t_default_NRM.jpg",
+        "NormalMapIntensity": "0,0,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.758"
+    }
+}

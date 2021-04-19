@@ -1,0 +1,148 @@
+{
+    "VIME FS 00": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "albedoTexture": "VIME_FS_COL.png",
+        "bumpTexture": "VIME_FS_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME FS 01": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "albedoColor": "0.675,0.247,0.816,1",
+        "albedoTexture": "VIME_FS_COL.png",
+        "bumpTexture": "VIME_FS_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME FS 02": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "albedoColor": "0.973,0.31,0.812,1",
+        "albedoTexture": "VIME_FS_COL.png",
+        "bumpTexture": "VIME_FS_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME FS 03": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "albedoColor": "0.878,0.173,0.173,1",
+        "albedoTexture": "VIME_FS_COL.png",
+        "bumpTexture": "VIME_FS_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME FS 04": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "albedoColor": "0,0.392,0.859,1",
+        "albedoTexture": "VIME_FS_COL.png",
+        "bumpTexture": "VIME_FS_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME FS 05": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "albedoColor": "0.412,0.812,0.875,1",
+        "albedoTexture": "VIME_FS_COL.png",
+        "bumpTexture": "VIME_FS_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME FS 06": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "albedoColor": "0.565,0.863,0.424,1",
+        "albedoTexture": "VIME_FS_COL.png",
+        "bumpTexture": "VIME_FS_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME FS 07": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "albedoColor": "0.902,0.827,0.427,1",
+        "albedoTexture": "VIME_FS_COL.png",
+        "bumpTexture": "VIME_FS_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME FS 08": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "albedoColor": "0.439,0.439,0.439,1",
+        "albedoTexture": "VIME_FS_COL.png",
+        "bumpTexture": "VIME_FS_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME FS 09": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "albedoColor": "0.125,0.125,0.125,1",
+        "albedoTexture": "VIME_FS_COL.png",
+        "bumpTexture": "VIME_FS_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME FS 10": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "albedoColor": "0.984,0.514,0.247,1",
+        "albedoTexture": "VIME_FS_COL.png",
+        "bumpTexture": "VIME_FS_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME FS 11": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "albedoColor": "0.075,0.537,0.306,1",
+        "albedoTexture": "VIME_FS_COL.png",
+        "bumpTexture": "VIME_FS_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME FS 12": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "albedoColor": "0.714,0.557,0.339,1",
+        "albedoTexture": "VIME_FS_COL.png",
+        "bumpTexture": "VIME_FS_NRM.png",
+        "metallic": "1",
+        "roughness": "0.45"
+    },
+    "VIME FS 13": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "albedoColor": "0.773,0.773,0.792,1",
+        "albedoTexture": "VIME_FS_COL.png",
+        "bumpTexture": "VIME_FS_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME FS 14": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "albedoColor": "0.702,0.263,0.514,1",
+        "albedoTexture": "VIME_FS_COL.png",
+        "bumpTexture": "VIME_FS_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME FS 15": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "albedoColor": "0.949,0.765,0.875,1",
+        "albedoTexture": "VIME_FS_COL.png",
+        "bumpTexture": "VIME_FS_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME FS 16": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "albedoColor": "0.471,0.455,0.259,1",
+        "albedoTexture": "VIME_FS_COL.png",
+        "bumpTexture": "VIME_FS_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME FS 17": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "albedoColor": "0.251,0.659,0.706,1",
+        "albedoTexture": "VIME_FS_COL.png",
+        "bumpTexture": "VIME_FS_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME FS 18": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "albedoColor": "0.608,0.239,0.239,1",
+        "albedoTexture": "VIME_FS_COL.png",
+        "bumpTexture": "VIME_FS_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME FS 19": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "albedoColor": "0.247,0.282,0.478,1",
+        "albedoTexture": "VIME_FS_COL.png",
+        "bumpTexture": "VIME_FS_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME FS Bedruckt": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "albedoTexture": "VIME_FS_COL.png",
+        "bumpTexture": "VIME_FS_NRM.png",
+        "roughness": "0.9"
+    }
+}

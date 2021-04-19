@@ -1,0 +1,160 @@
+{
+    "Forchheimfolie": {
+        "BaseNormal": "Glanzfolie_Forchheimfolie_NRM.png",
+        "FoilNormalTiling": "32",
+        "NormalFoilIntensity": "0.08",
+        "ProtectionFoilEnabled": "1",
+        "RoughnessFoil": "0.1",
+        "TintFoil": "0.9,0.9,0.9,1"
+    },
+    "Glanzfolie glatt": {
+        "BaseNormal": "default_NRM.jpg",
+        "FoilNormalTiling": "16",
+        "ProtectionFoilEnabled": "1",
+        "RoughnessFoil": "0.1",
+        "TintFoil": "0.9,0.9,0.9,1"
+    },
+    "Glanzfolie koernig": {
+        "BaseNormal": "Glanzfolie_koernig_NRM.png",
+        "FoilNormalTiling": "16",
+        "NormalFoilIntensity": "0.02",
+        "ProtectionFoilEnabled": "1",
+        "RoughnessFoil": "0.1",
+        "TintFoil": "0.9,0.9,0.9,1"
+    },
+    "Glanzfolie wolkig": {
+        "BaseNormal": "Glanzfolie_wolkig_NRM.png",
+        "NormalFoilIntensity": "0.05",
+        "ProtectionFoilEnabled": "1",
+        "RoughnessFoil": "0.1",
+        "TintFoil": "0.9,0.9,0.9,1"
+    },
+    "Granulat": {
+        "BaseNormal": "Glanzfolie_Granulat_NRM.png",
+        "FoilNormalTiling": "20",
+        "NormalFoilIntensity": "0.2",
+        "ProtectionFoilEnabled": "1",
+        "RoughnessFoil": "0.1",
+        "TintFoil": "0.9,0.9,0.9,1"
+    },
+    "Granulat matt": {
+        "BaseNormal": "Glanzfolie_Granulat_NRM.png",
+        "FoilNormalTiling": "20",
+        "NormalFoilIntensity": "0.2",
+        "ProtectionFoilEnabled": "1",
+        "RoughnessFoil": "0.25",
+        "TintFoil": "0.9,0.9,0.9,1"
+    },
+    "Irisierende Folie gelb": {
+        "BaseNormal": "default_NRM.jpg",
+        "FoilNormalTiling": "16",
+        "MetallicFoil": "0.5",
+        "ProtectionFoilEnabled": "1",
+        "RoughnessFoil": "0.2",
+        "TintFoil": "0.9,0.54,0.09,1"
+    },
+    "Irisierende Folie gruen": {
+        "BaseNormal": "default_NRM.jpg",
+        "FoilNormalTiling": "16",
+        "MetallicFoil": "0.5",
+        "ProtectionFoilEnabled": "1",
+        "RoughnessFoil": "0.2",
+        "TintFoil": "0.145,0.479,0.755,1"
+    },
+    "Ledergenarbt": {
+        "BaseNormal": "Glanzfolie_Ledergenarbt_NRM.png",
+        "FoilNormalTiling": "24",
+        "NormalFoilIntensity": "0.05",
+        "ProtectionFoilEnabled": "1",
+        "RoughnessFoil": "0.15",
+        "TintFoil": "0.9,0.9,0.9,1"
+    },
+    "Mattfolie": {
+        "BaseNormal": "default_NRM.jpg",
+        "FoilNormalTiling": "20",
+        "ProtectionFoilEnabled": "1",
+        "RoughnessFoil": "0.25",
+        "TintFoil": "0.9,0.9,0.9,1"
+    },
+    "Mattfolie extramatt": {
+        "BaseNormal": "default_NRM.jpg",
+        "FoilNormalTiling": "20",
+        "ProtectionFoilEnabled": "1",
+        "RoughnessFoil": "0.7",
+        "TintFoil": "0.9,0.9,0.9,1"
+    },
+    "Metallicfoilie": {
+        "BaseNormal": "default_NRM.jpg",
+        "FoilNormalTiling": "20",
+        "MetallicFoil": "0.5",
+        "ProtectionFoilEnabled": "1",
+        "RoughnessFoil": "0.2",
+        "TintFoil": "0.9,0.9,0.9,1"
+    },
+    "Peytan gerippt": {
+        "BaseNormal": "Glanzfolie_Peytan_gerippt_NRM.png",
+        "FoilNormalTiling": "78",
+        "MetallicFoil": "0.5",
+        "NormalFoilIntensity": "0.22",
+        "ProtectionFoilEnabled": "1",
+        "RoughnessFoil": "0.1",
+        "TintFoil": "0.9,0.9,0.9,1"
+    },
+    "Peytan gerippt 2": {
+        "BaseNormal": "Glanzfolie_Peytan_gerippt_NRM.png",
+        "FoilNormalTiling": "78",
+        "MetallicFoil": "0.5",
+        "NormalFoilIntensity": "0.22",
+        "ProtectionFoilEnabled": "1",
+        "RoughnessFoil": "0.25",
+        "TintFoil": "0.9,0.9,0.9,1"
+    },
+    "Peytan gerippt 3": {
+        "BaseNormal": "Glanzfolie_Peytan_gerippt_NRM.png",
+        "FoilNormalTiling": "78",
+        "MetallicFoil": "0.5",
+        "NormalFoilIntensity": "1",
+        "ProtectionFoilEnabled": "1",
+        "RoughnessFoil": "0.3",
+        "TintFoil": "0.9,0.9,0.9,1"
+    },
+    "Polylein": {
+        "BaseNormal": "Glanzfolie_Polylein_NRM.png",
+        "FoilNormalTiling": "36",
+        "NormalFoilIntensity": "0.17",
+        "ProtectionFoilEnabled": "1",
+        "RoughnessFoil": "0.03",
+        "TintFoil": "0.9,0.9,0.9,1"
+    },
+    "Polylein fein": {
+        "BaseNormal": "Glanzfolie_Polylein_fein_NRM.png",
+        "FoilNormalTiling": "32",
+        "NormalFoilIntensity": "0.08",
+        "ProtectionFoilEnabled": "1",
+        "RoughnessFoil": "0.1",
+        "TintFoil": "0.9,0.9,0.9,1"
+    },
+    "Polylein fein matt": {
+        "BaseNormal": "Glanzfolie_Polylein_fein_NRM.png",
+        "FoilNormalTiling": "32",
+        "NormalFoilIntensity": "0.08",
+        "ProtectionFoilEnabled": "1",
+        "RoughnessFoil": "0.17",
+        "TintFoil": "0.9,0.9,0.9,1"
+    },
+    "Polylein matt": {
+        "BaseNormal": "Glanzfolie_Polylein_NRM.png",
+        "FoilNormalTiling": "36",
+        "NormalFoilIntensity": "0.3",
+        "ProtectionFoilEnabled": "1",
+        "RoughnessFoil": "0.17",
+        "TintFoil": "0.9,0.9,0.9,1"
+    },
+    "Softtouchfolie": {
+        "BaseNormal": "default_NRM.jpg",
+        "FoilNormalTiling": "16",
+        "ProtectionFoilEnabled": "1",
+        "RoughnessFoil": "0.9",
+        "TintFoil": "0.9,0.9,0.9,1"
+    }
+}

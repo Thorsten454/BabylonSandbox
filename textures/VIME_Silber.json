@@ -1,0 +1,52 @@
+{
+    "VIME Silber Mat": {
+        "BaseColorTexture": "../VIME Silber/t_default_COL.jpg",
+        "BaseColorTint": "0.988,0.98,0.961,1",
+        "DetailNormalMapTexture": "../VIME Silber/t_default_NRM.jpg",
+        "Metallic": "1",
+        "NormalMapTexture": "../VIME Silber/t_default_NRM.jpg",
+        "Roughness": "0.4"
+    },
+    "VIME Silber Metallic": {
+        "BaseColorTexture": "../VIME Silber/t_default_COL.jpg",
+        "BaseColorTint": "0.988,0.98,0.961,1",
+        "DetailNormalIntensity": "0.025",
+        "DetailNormalMapTexture": "VIME_Silber_Wolkig_NRM.png",
+        "DetailNormalTiling": "10",
+        "Metallic": "1",
+        "NormalMapIntensity": "0.1,0.1,1",
+        "NormalMapTexture": "../VIME Silber/t_default_NRM.jpg",
+        "Roughness": "0.1"
+    },
+    "VIME Silber Satingloss": {
+        "BaseColorTexture": "../VIME Silber/t_default_COL.jpg",
+        "BaseColorTint": "0.988,0.98,0.961,1",
+        "DetailNormalIntensity": "0.025",
+        "DetailNormalMapTexture": "VIME_Silber_Wolkig_NRM.png",
+        "DetailNormalTiling": "20",
+        "Metallic": "1",
+        "NormalMapTexture": "../VIME Silber/t_default_NRM.jpg",
+        "Roughness": "0.3"
+    },
+    "VIME Silber Special": {
+        "BaseColorTexture": "../VIME Silber/t_default_COL.jpg",
+        "BaseColorTint": "0.988,0.98,0.961,1",
+        "DetailNormalIntensity": "0.125",
+        "DetailNormalMapTexture": "VIME_Silber_Wolkig_NRM.png",
+        "DetailNormalTiling": "15",
+        "Metallic": "1",
+        "NormalMapIntensity": "0.05,0.05,1",
+        "NormalMapTexture": "../VIME Silber/t_default_NRM.jpg",
+        "Roughness": "0.3"
+    },
+    "VIME Silber Special AB": {
+        "BaseColorTexture": "../VIME Silber/t_default_COL.jpg",
+        "BaseColorTint": "0.988,0.98,0.961,1",
+        "DetailNormalIntensity": "0.125",
+        "DetailNormalMapTexture": "VIME_Silber_Wolkig_NRM.png",
+        "DetailNormalTiling": "15",
+        "Metallic": "1",
+        "NormalMapTexture": "../VIME Silber/t_default_NRM.jpg",
+        "Roughness": "0.45"
+    }
+}

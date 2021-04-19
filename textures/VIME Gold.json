@@ -1,0 +1,73 @@
+{
+    "VIME Gold 180": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.953,0.888,0.557,1",
+        "DetailNormalIntensity": "0.025",
+        "DetailNormalMapTexture": "VIME_Gold_180_NRM.png",
+        "Metallic": "1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.31"
+    },
+    "VIME Gold 220": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.98,0.843,0.467,1",
+        "DetailNormalIntensity": "0.025",
+        "DetailNormalMapTexture": "VIME_Gold_180_NRM.png",
+        "DetailNormalTiling": "4",
+        "Metallic": "1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.31"
+    },
+    "VIME Gold 231": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.953,0.847,0.557,1",
+        "DetailNormalIntensity": "0.025",
+        "DetailNormalMapTexture": "VIME_Gold_180_NRM.png",
+        "DetailNormalTiling": "4",
+        "Metallic": "1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.3"
+    },
+    "VIME Gold 232 Hochpraegung": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.902,0.729,0.435,1",
+        "DetailNormalIntensity": "0.025",
+        "DetailNormalMapTexture": "VIME_Gold_180_NRM.png",
+        "DetailNormalTiling": "4",
+        "Metallic": "1",
+        "NormalMapIntensity": "0.2,0.2,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.2"
+    },
+    "VIME Gold 232 Tiefpraegung": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.902,0.729,0.435,1",
+        "DetailNormalIntensity": "0.025",
+        "DetailNormalMapTexture": "VIME_Gold_180_NRM.png",
+        "DetailNormalTiling": "4",
+        "Metallic": "1",
+        "NormalMapIntensity": "0.2,-0.2,1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.2"
+    },
+    "VIME Gold 233": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.953,0.822,0.557,1",
+        "DetailNormalIntensity": "0.025",
+        "DetailNormalMapTexture": "VIME_Gold_180_NRM.png",
+        "DetailNormalTiling": "4",
+        "Metallic": "1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.3"
+    },
+    "Weihnachtsbaum GOLD": {
+        "BaseColorTexture": "t_default_COL.jpg",
+        "BaseColorTint": "0.902,0.729,0.435,1",
+        "DetailNormalIntensity": "0.05",
+        "DetailNormalMapTexture": "VIME_Gold_180_NRM.png",
+        "DetailNormalTiling": "4",
+        "Metallic": "1",
+        "NormalMapTexture": "t_default_NRM.jpg",
+        "Roughness": "0.2"
+    }
+}

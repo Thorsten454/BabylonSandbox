@@ -1,0 +1,16 @@
+{
+    "Ringbuch schwarz": {
+        "albedoColor": "0.18,0.179,0.179,1",
+        "albedoTexture": "default_COL.jpg",
+        "bumpTexture": "default_NRM.jpg",
+        "metallic": "0.572",
+        "roughness": "0.277"
+    },
+    "Ringbuch weiss": {
+        "albedoColor": "0.8,0.796,0.796,1",
+        "albedoTexture": "default_COL.jpg",
+        "bumpTexture": "default_NRM.jpg",
+        "metallic": "0.283",
+        "roughness": "0.277"
+    }
+}

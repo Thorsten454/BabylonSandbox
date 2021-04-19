@@ -1,0 +1,54 @@
+{
+    "Silber hell flach koernig": {
+        "BaseColorTexture": "t_default_D.jpg",
+        "BaseColorTint": "0.988,0.98,0.961,1",
+        "DetailNormalIntensity": "0.05",
+        "DetailNormalMapTexture": "Silber_hell_flach_koernig_N.png",
+        "DetailNormalTiling": "6",
+        "Metallic": "1",
+        "NormalMapTexture": "t_default_N.jpg",
+        "Roughness": "0.1"
+    },
+    "Silber hell flach matt glatt": {
+        "BaseColorTexture": "t_default_D.jpg",
+        "BaseColorTint": "0.988,0.98,0.961,1",
+        "DetailNormalIntensity": "0.05",
+        "DetailNormalMapTexture": "t_default_N.jpg",
+        "Metallic": "1",
+        "NormalMapTexture": "t_default_N.jpg",
+        "Roughness": "0.4"
+    },
+    "Silber hell flach matt wolkig": {
+        "BaseColorTexture": "t_default_D.jpg",
+        "BaseColorTint": "0.988,0.98,0.961,1",
+        "DetailNormalIntensity": "0.1",
+        "DetailNormalMapTexture": "UV_Spot_Lack_stark_wolkig_N.png",
+        "DetailNormalTiling": "4",
+        "Metallic": "1",
+        "NormalMapTexture": "t_default_N.jpg",
+        "Roughness": "0.4"
+    },
+    "Silber hell flach wellig": {
+        "BaseColorTexture": "t_default_D.jpg",
+        "BaseColorTint": "0.988,0.98,0.961,1",
+        "DetailNormalIntensity": "0.1",
+        "DetailNormalMapTexture": "Silber_hell_flach_wellig_N.png",
+        "DetailNormalTiling": "10",
+        "Metallic": "1",
+        "NormalMapTexture": "t_default_N.jpg",
+        "Roughness": "0.4"
+    },
+    "Silber sehr hell flach k\u00f6rnig": {
+        "BaseColorTexture": "t_default_D.jpg",
+        "ClearCoatEnabled": "1",
+        "ClearCoatTint": "0.788,0.788,0.788,1",
+        "DetailNormalIntensity": "0.05",
+        "DetailNormalMapTexture": "Silber_hell_flach_koernig_N.png",
+        "DetailNormalTiling": "4",
+        "InheritBaseColor": "1",
+        "Metallic": "1",
+        "NormalMapIntensity": "0.1,0.1,1",
+        "NormalMapTexture": "t_default_N.jpg",
+        "Roughness": "0.5"
+    }
+}

@@ -1,0 +1,996 @@
+{
+    "VIME Papier 400 schwarz": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.155,0.152,0.16,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 401 hochweiss": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.85,0.85,0.85,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 402 weiss": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.8,0.787,0.76,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 406 lichtweiss matt": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.8,0.79,0.781,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 409 tiefschwarz": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.158,0.165,0.164,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 410 chamois": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.85,0.815,0.68,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 411 beige": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.75,0.666,0.487,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 412 sandbeige": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.66,0.599,0.515,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 413 braunbeige": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.608,0.532,0.365,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 414 goldgelb": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.8,0.661,0.24,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 415 maisgelb": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.8,0.544,0.16,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 416 orange": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.8,0.379,0.238,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 420 rotbraun": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.75,0.374,0.27,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 421 sienabraun": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.769,0.319,0.25,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 422 naturbraun": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.55,0.263,0.231,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 423 nussbraun": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.45,0.358,0.261,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 424 schokolade": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.263,0.221,0.21,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 429 mohnrot": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.8,0.275,0.268,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 430 hellrot": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.78,0.218,0.218,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 431 rot": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.73,0.19,0.263,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 432 rosso": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.73,0.131,0.213,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 433 kardinalrot": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.45,0.158,0.198,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 434 weinrot": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.35,0.217,0.226,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 435 altrosa": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.7,0.628,0.595,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 436 beerenrot": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.65,0.37,0.428,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 437 magenta": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.7,0.322,0.559,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 447 perlbeige": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.706,0.672,0.635,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 448 bleigrau": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.35,0.346,0.33,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 449 flanellgrau": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.657,0.68,0.612,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 450 silbergrau": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.6,0.596,0.577,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 451 taubengrau": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.533,0.592,0.577,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 452 titan": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.6,0.6,0.558,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 453 braungrau": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.378,0.4,0.34,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 454 anthrazit": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.297,0.31,0.279,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 455 schiefergrau": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.202,0.213,0.23,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 456 dunkelblau": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.145,0.152,0.25,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 457 atlantikblau": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.227,0.324,0.54,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 458 stahlblau": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.38,0.46,0.5,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 460 schwarzblau": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.143,0.149,0.18,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 461 pariserblau": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.145,0.188,0.25,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 462 opalblau": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.284,0.327,0.49,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 463 hellblau": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.608,0.709,0.76,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 464 mittelblau": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.17,0.384,0.5,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 465 meerblau": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.439,0.534,0.57,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 466 cyan": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.115,0.606,0.76,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 467 tuerkis": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.184,0.502,0.51,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 480 pistazie": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.798,0.82,0.541,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 481 bambus": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.784,0.744,0.612,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 482 lindgruen": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.419,0.55,0.39,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 483 apfelgruen": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.566,0.65,0.382,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 484 dunkelgruen": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.155,0.31,0.246,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier 490 gold 1-seitig": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.702,0.564,0.323,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "metallic": "1",
+        "roughness": "0.5"
+    },
+    "VIME Papier 490 gold 2-seitig": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.702,0.564,0.323,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "metallic": "1",
+        "roughness": "0.5"
+    },
+    "VIME Papier 491 silber 1-seitig": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.75,0.75,0.75,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "metallic": "1",
+        "roughness": "0.5"
+    },
+    "VIME Papier 491 silber 2-seitig": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.75,0.75,0.75,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "metallic": "1",
+        "roughness": "0.5"
+    },
+    "VIME Papier C Apricot": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.745,0.325,0.2,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Aquamarin": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.349,0.455,0.624,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Aubergine": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.243,0.192,0.204,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Azurblau": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.216,0.361,0.545,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Blattgruen": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.263,0.333,0.149,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Burgunderrot": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.31,0.188,0.212,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Chamois": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.91,0.878,0.6,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Diamatweiss": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.894,0.929,0.902,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Dunkelgrau": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.388,0.384,0.365,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Dunkeloliv": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.314,0.349,0.329,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Dunkelviolett": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.31,0.239,0.31,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Eisblau": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.706,0.769,0.859,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Granat": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.51,0.29,0.278,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Graphit": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.235,0.247,0.255,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Grasgruen": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.443,0.49,0.231,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Havanna": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.647,0.533,0.361,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Hellbraun": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.541,0.424,0.282,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Hellgruen": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.341,0.404,0.29,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Hellrot": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.655,0.18,0.235,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Indigo": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.196,0.235,0.333,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Jeansblau": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.227,0.286,0.4,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Kaffeebraun": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.227,0.18,0.165,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Kalkgrau": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.694,0.69,0.659,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Karminrot": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.545,0.153,0.239,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Kirschrot": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.635,0.18,0.255,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Kiwi": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.306,0.475,0.275,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Korallenrot": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.765,0.235,0.235,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Lila": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.4,0.267,0.467,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Mahagoni": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.259,0.204,0.18,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Maisgelb": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.914,0.718,0.255,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Mandarin": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.69,0.337,0.153,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Minzgruen": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.192,0.294,0.263,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Mittelblau": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.325,0.439,0.682,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Moosgruen": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.243,0.282,0.227,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Ockergruen": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.561,0.529,0.349,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Oliv": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.278,0.298,0.169,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Orange": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.859,0.427,0.216,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Papaya": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.898,0.651,0.173,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Pazifikblau": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.451,0.502,0.545,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Petrol": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.165,0.224,0.259,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Pink": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.659,0.29,0.365,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Pistazie": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.4,0.655,0.58,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Platingrau": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.306,0.349,0.329,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Purpur": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.408,0.169,0.278,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Quarzgrau": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.478,0.502,0.451,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Rosa": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.859,0.361,0.431,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Rostbraun": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.443,0.231,0.204,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Royalblau": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.18,0.227,0.318,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Rubinrot": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.451,0.145,0.227,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Sand": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.6,0.557,0.42,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Sandbraun": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.58,0.388,0.235,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Schiefer": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.302,0.322,0.38,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Schilfgruen": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.545,0.533,0.439,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Schokobraun": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.329,0.267,0.224,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Schwarz": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.145,0.145,0.149,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Schwarzblau": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.192,0.224,0.267,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Senfgelb": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.502,0.435,0.141,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Sonnengelb": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.863,0.667,0.082,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Steingrau": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.431,0.443,0.451,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Tabakbraun": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.369,0.294,0.239,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Tannengruen": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.176,0.231,0.212,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Taubenblau": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.392,0.443,0.529,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Teracotta": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.631,0.337,0.235,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Tuerkis": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.286,0.71,0.741,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Violett": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.243,0.169,0.247,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C WBS580": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.361,0.224,0.443,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier C Zartgelb": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoColor": "0.91,0.827,0.353,1",
+        "albedoTexture": "VIME_Papier_COL.png",
+        "bumpTexture": "VIME_Papier_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier Schlange gruen": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoTexture": "VIME_Papier_Schlange_COL.png",
+        "bumpTexture": "VIME_Papier_Schlange_NRM.png",
+        "roughness": "0.9"
+    },
+    "VIME Papier Schlange gruen 2": {
+        "AlbedoTextureBias": "default_COL.jpg",
+        "Tiling": "6",
+        "albedoTexture": "VIME_Papier_Schlange_COL.png",
+        "bumpTexture": "VIME_Papier_Schlange_NRM.png",
+        "roughness": "0.9"
+    }
+}
