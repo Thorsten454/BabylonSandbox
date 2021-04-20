@@ -1,7 +1,7 @@
 {
     "VIME KF \u00dc 302": {
         "BaseColorTexture": "t_default_COL.jpg",
-        "BaseColorTint": "0,0.055,0.653,1",
+        "BaseColorTint": "0.5,0.545,1,1",
         "ClearCoatEnabled": "1",
         "ClearCoatRoughness": "0.07",
         "DetailNormalIntensity": "0.006",
@@ -99,7 +99,7 @@
     },
     "VIME KF \u00dc 341": {
         "BaseColorTexture": "t_default_COL.jpg",
-        "BaseColorTint": "0.477,0.0,0.769,1",
+        "BaseColorTint": "0.477,0,0.769,1",
         "ClearCoatEnabled": "1",
         "ClearCoatRoughness": "0.07",
         "DetailNormalIntensity": "0.006",
@@ -113,7 +113,7 @@
     },
     "VIME KF \u00dc 355": {
         "BaseColorTexture": "t_default_COL.jpg",
-        "BaseColorTint": "0.8,0.603,0.530,1",
+        "BaseColorTint": "0.8,0.603,0.53,1",
         "ClearCoatEnabled": "1",
         "ClearCoatRoughness": "0.07",
         "DetailNormalIntensity": "0.006",
@@ -197,7 +197,7 @@
     },
     "VIME KF \u00dc 381": {
         "BaseColorTexture": "t_default_COL.jpg",
-        "BaseColorTint": "0.8,0.740,0.433,1",
+        "BaseColorTint": "0.8,0.74,0.433,1",
         "ClearCoatEnabled": "1",
         "ClearCoatRoughness": "0.07",
         "DetailNormalIntensity": "0.006",
@@ -225,7 +225,7 @@
     },
     "VIME KF \u00dc 391": {
         "BaseColorTexture": "t_default_COL.jpg",
-        "BaseColorTint": "0.0,0.512,0.867,1",
+        "BaseColorTint": "0,0.512,0.867,1",
         "ClearCoatEnabled": "1",
         "ClearCoatRoughness": "0.07",
         "DetailNormalIntensity": "0.006",
@@ -337,7 +337,7 @@
     },
     "VIME KF \u00dc 429": {
         "BaseColorTexture": "t_default_COL.jpg",
-        "BaseColorTint": "0.867,0.789,0.540,1",
+        "BaseColorTint": "0.867,0.789,0.54,1",
         "ClearCoatEnabled": "1",
         "ClearCoatRoughness": "0.15",
         "DetailNormalIntensity": "0.006",
