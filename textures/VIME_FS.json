@@ -140,7 +140,7 @@
         "roughness": "0.9"
     },
     "VIME FS Bedruckt": {
-        "AlbedoTextureBias": "t_default_COL.jpg",
+        "AlbedoTextureBias": "T_FS_bedruckt_COL.jpg",
         "albedoTexture": "VIME_FS_COL.png",
         "bumpTexture": "VIME_FS_NRM.png",
         "roughness": "0.9"
