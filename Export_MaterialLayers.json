@@ -7423,7 +7423,7 @@
     {
       "customType": "BABYLON.InputBlock",
       "id": 9220,
-      "name": "SpS4_NRM_Strengthecial4NormalIntensity",
+      "name": "S4_NRM_Strength",
       "comments": "",
       "visibleInInspector": true,
       "visibleOnFrame": false,
