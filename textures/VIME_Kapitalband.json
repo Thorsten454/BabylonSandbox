@@ -1,0 +1,314 @@
+{
+    "VIME KB 000": {
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "roughness": "0.3"
+    },
+    "VIME KB 001": {
+        "albedoTexture": "VIME_KB_001_COL.png",
+        "bumpTexture": "VIME_KB_002_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 002": {
+        "albedoTexture": "VIME_KB_002_COL.png",
+        "bumpTexture": "VIME_KB_002_NRM.png",
+        "metallic": "1",
+        "roughness": "0.3"
+    },
+    "VIME KB 005": {
+        "albedoTexture": "VIME_KB_005_COL.png",
+        "bumpTexture": "VIME_KB_002_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 012": {
+        "albedoTexture": "VIME_KB_012_COL.png",
+        "bumpTexture": "VIME_KB_002_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 013": {
+        "albedoTexture": "VIME_KB_013_COL.png",
+        "bumpTexture": "VIME_KB_002_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 017": {
+        "albedoTexture": "VIME_KB_017_COL.png",
+        "bumpTexture": "VIME_KB_002_NRM.png",
+        "metallic": "1",
+        "roughness": "0.3"
+    },
+    "VIME KB 01A": {
+        "albedoTexture": "VIME_KB_01A_COL.png",
+        "bumpTexture": "VIME_KB_002_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 02A": {
+        "albedoTexture": "VIME_KB_02A_COL.png",
+        "bumpTexture": "VIME_KB_002_NRM.png",
+        "metallic": "1",
+        "roughness": "0.3"
+    },
+    "VIME KB 049": {
+        "albedoTexture": "VIME_KB_049_COL.png",
+        "bumpTexture": "VIME_KB_002_NRM.png",
+        "metallic": "1",
+        "roughness": "0.3"
+    },
+    "VIME KB 059": {
+        "albedoTexture": "VIME_KB_059_COL.png",
+        "bumpTexture": "VIME_KB_002_NRM.png",
+        "metallic": "1",
+        "roughness": "0.3"
+    },
+    "VIME KB 100": {
+        "albedoColor": "0.952,0.982,1,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 158": {
+        "albedoTexture": "VIME_KB_158_COL.png",
+        "bumpTexture": "VIME_KB_002_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 209": {
+        "albedoTexture": "VIME_KB_209_COL.png",
+        "bumpTexture": "VIME_KB_002_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 220": {
+        "albedoColor": "1,0.948,0.353,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 325": {
+        "albedoColor": "0.144,0.193,0.32,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 348": {
+        "albedoColor": "0.82,0.502,0.153,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 369": {
+        "albedoColor": "0.8,0.163,0.163,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 382": {
+        "albedoColor": "0.3,0.147,0.147,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 396": {
+        "albedoColor": "0.58,0.58,0.58,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 402": {
+        "albedoColor": "0.918,0.774,0.786,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 406": {
+        "albedoColor": "0.77,0.61,0.123,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 408": {
+        "albedoColor": "0.552,0.57,0.58,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 412": {
+        "albedoColor": "0.26,0.228,0.211,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 427": {
+        "albedoColor": "0.122,0.16,0.13,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 428": {
+        "albedoColor": "0.8,0.472,0.721,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 429": {
+        "albedoColor": "1,0.41,0.632,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 441": {
+        "albedoColor": "0.745,0.652,0.313,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 489": {
+        "albedoColor": "0.47,0.235,0.235,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 518": {
+        "albedoTexture": "VIME_KB_518_COL.png",
+        "bumpTexture": "VIME_KB_002_NRM.png",
+        "metallic": "1",
+        "roughness": "0.3"
+    },
+    "VIME KB 537": {
+        "albedoColor": "0.141,0.519,0.8,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 555": {
+        "albedoColor": "0.402,0.273,0.47,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 560": {
+        "albedoColor": "0.215,0.358,0.498,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 573": {
+        "albedoColor": "0.146,0.224,0.431,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 614": {
+        "albedoColor": "0.633,0.675,0.373,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 618": {
+        "albedoColor": "0.411,0.514,0.284,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 644": {
+        "albedoColor": "0.23,0.459,0.364,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 660": {
+        "albedoColor": "0.166,0.255,0.184,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 683": {
+        "albedoColor": "0.074,0.214,0.23,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 684": {
+        "albedoColor": "0.041,0.402,0.46,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 704": {
+        "albedoColor": "0.69,0.648,0.538,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 725": {
+        "albedoColor": "0.54,0.493,0.389,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 866": {
+        "albedoColor": "0.28,0.201,0.16,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 906": {
+        "albedoColor": "0.95,0.946,0.938,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB 999": {
+        "albedoColor": "0.18,0.179,0.178,1",
+        "albedoTexture": "VIME_KB_000_COL.png",
+        "bumpTexture": "VIME_KB_000_NRM.png",
+        "metallic": "1",
+        "roughness": "0.5"
+    },
+    "VIME KB A91": {
+        "albedoTexture": "VIME_KB_A91_COL.png",
+        "bumpTexture": "VIME_KB_002_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    },
+    "VIME KB B41": {
+        "albedoTexture": "VIME_KB_B41_COL.png",
+        "bumpTexture": "VIME_KB_002_NRM.png",
+        "metallic": "1",
+        "roughness": "0.4"
+    }
+}
